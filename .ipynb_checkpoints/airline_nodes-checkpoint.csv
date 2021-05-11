@@ -1,0 +1,1947 @@
+UNIQUE_CARRIER_NAME,ORIGIN_AIRPORT_ID,Id,DEST_AIRPORT_ID,Target,MONTH
+Empire Airlines Inc.,10140,ABQ,11413,DRO,3
+Empire Airlines Inc.,10194,AFW,12278,ICT,3
+Empire Airlines Inc.,10299,ANC,10299,ANC,3
+Empire Airlines Inc.,10666,BLI,11762,FRD,3
+Empire Airlines Inc.,11050,CLM,14747,SEA,3
+Empire Airlines Inc.,11198,CVO,14057,PDX,3
+Empire Airlines Inc.,11413,DRO,10140,ABQ,3
+Empire Airlines Inc.,11470,EAT,11884,GEG,3
+Empire Airlines Inc.,11555,ENA,10299,ANC,3
+Empire Airlines Inc.,11588,ESD,10666,BLI,3
+Empire Airlines Inc.,11603,EUG,14057,PDX,3
+Empire Airlines Inc.,11630,FAI,10299,ANC,3
+Empire Airlines Inc.,11695,FLG,12132,HII,3
+Empire Airlines Inc.,11711,FMN,10140,ABQ,3
+Empire Airlines Inc.,11762,FRD,10666,BLI,3
+Empire Airlines Inc.,11775,FSD,14457,RAP,3
+Empire Airlines Inc.,11884,GEG,11470,EAT,3
+Empire Airlines Inc.,12003,GTF,13486,MSO,3
+Empire Airlines Inc.,12018,GUP,10140,ABQ,3
+Empire Airlines Inc.,12132,HII,13785,NYL,3
+Empire Airlines Inc.,12173,HNL,12982,LIH,3
+Empire Airlines Inc.,12184,HOM,10299,ANC,3
+Empire Airlines Inc.,12278,ICT,10194,AFW,3
+Empire Airlines Inc.,12280,IDA,14869,SLC,3
+Empire Airlines Inc.,12402,ITO,12173,HNL,3
+Empire Airlines Inc.,12896,LBB,10194,AFW,3
+Empire Airlines Inc.,12956,LGD,14054,PDT,3
+Empire Airlines Inc.,12982,LIH,12173,HNL,3
+Empire Airlines Inc.,13024,LMT,14057,PDX,3
+Empire Airlines Inc.,13127,LWS,11884,GEG,3
+Empire Airlines Inc.,13158,MAF,12896,LBB,3
+Empire Airlines Inc.,13264,MFR,13024,LMT,3
+Empire Airlines Inc.,13486,MSO,12003,GTF,3
+Empire Airlines Inc.,13540,MVW,14747,SEA,3
+Empire Airlines Inc.,13546,MWH,11470,EAT,3
+Empire Airlines Inc.,13785,NYL,13785,NYL,3
+Empire Airlines Inc.,13890,ONP,11198,CVO,3
+Empire Airlines Inc.,13891,ONT,14689,SBA,3
+Empire Airlines Inc.,13964,OTH,11603,EUG,3
+Empire Airlines Inc.,14054,PDT,11884,GEG,3
+Empire Airlines Inc.,14057,PDX,13024,LMT,3
+Empire Airlines Inc.,14107,PHX,11695,FLG,3
+Empire Airlines Inc.,14252,PSC,11884,GEG,3
+Empire Airlines Inc.,14457,RAP,11775,FSD,3
+Empire Airlines Inc.,14467,RBG,11603,EUG,3
+Empire Airlines Inc.,14489,RDM,11603,EUG,3
+Empire Airlines Inc.,14689,SBA,13891,ONT,3
+Empire Airlines Inc.,14747,SEA,10666,BLI,3
+Empire Airlines Inc.,14869,SLC,12280,IDA,3
+Empire Airlines Inc.,14871,SLE,14057,PDX,3
+Empire Airlines Inc.,15370,TUL,10194,AFW,3
+Empire Airlines Inc.,16101,YKM,11884,GEG,3
+Miami Air International,10397,ATL,10599,BHM,3
+Miami Air International,10540,BED,13342,MKE,3
+Miami Air International,10599,BHM,10821,BWI,3
+Miami Air International,10615,BIF,12951,LFT,3
+Miami Air International,10693,BNA,12264,IAD,3
+Miami Air International,10721,BOS,15249,TLH,3
+Miami Air International,10868,CAE,12339,IND,3
+Miami Air International,11057,CLT,11267,DAY,3
+Miami Air International,11066,CMH,13303,MIA,3
+Miami Air International,11259,DAL,10397,ATL,3
+Miami Air International,11292,DEN,11433,DTW,3
+Miami Air International,11423,DSM,11267,DAY,3
+Miami Air International,11433,DTW,12451,JAX,3
+Miami Air International,11618,EWR,10540,BED,3
+Miami Air International,11648,FCA,11292,DEN,3
+Miami Air International,11764,FRG,14869,SLC,3
+Miami Air International,11953,GNV,13244,MEM,3
+Miami Air International,11996,GSP,11618,EWR,3
+Miami Air International,12094,HDN,14683,SAT,3
+Miami Air International,12191,HOU,14683,SAT,3
+Miami Air International,12216,HST,13303,MIA,3
+Miami Air International,12264,IAD,13851,OKC,3
+Miami Air International,12266,IAH,11259,DAL,3
+Miami Air International,12339,IND,11540,ELP,3
+Miami Air International,12448,JAN,11540,ELP,3
+Miami Air International,12451,JAX,11267,DAY,3
+Miami Air International,12878,LAF,14869,SLC,3
+Miami Air International,12954,LGB,14679,SAN,3
+Miami Air International,13029,LNK,13303,MIA,3
+Miami Air International,13204,MCO,10599,BHM,3
+Miami Air International,13230,MDT,14112,PIE,3
+Miami Air International,13232,MDW,13930,ORD,3
+Miami Air International,13244,MEM,11423,DSM,3
+Miami Air International,13290,MHK,10599,BHM,3
+Miami Air International,13303,MIA,10397,ATL,3
+Miami Air International,13342,MKE,10693,BNA,3
+Miami Air International,13485,MSN,11618,EWR,3
+Miami Air International,13495,MSY,11298,DFW,3
+Miami Air International,13671,NHK,14683,SAT,3
+Miami Air International,13736,NQX,12264,IAD,3
+Miami Air International,13851,OKC,14730,SDF,3
+Miami Air International,13930,ORD,11267,DAY,3
+Miami Air International,14027,PBI,13303,MIA,3
+Miami Air International,14100,PHL,11267,DAY,3
+Miami Air International,14122,PIT,11618,EWR,3
+Miami Air International,14197,POB,11003,CID,3
+Miami Air International,14307,PVD,11618,EWR,3
+Miami Air International,14492,RDU,10721,BOS,3
+Miami Air International,14533,RIV,14869,SLC,3
+Miami Air International,14635,RSW,13303,MIA,3
+Miami Air International,14679,SAN,12094,HDN,3
+Miami Air International,14683,SAT,11267,DAY,3
+Miami Air International,14761,SFB,12451,JAX,3
+Miami Air International,14831,SJC,11884,GEG,3
+Miami Air International,15016,STL,11057,CLT,3
+Miami Air International,15096,SYR,11618,EWR,3
+Miami Air International,15249,TLH,10792,BUF,3
+Miami Air International,15304,TPA,10693,BNA,3
+Miami Air International,14112,PIE,14832,SJD,3
+Miami Air International,14739,SDQ,13244,MEM,3
+Miami Air International,14832,SJD,11259,DAL,3
+Miami Air International,14843,SJU,13303,MIA,3
+Miami Air International,15513,UVF,13303,MIA,3
+Miami Air International,16149,YOW,14122,PIT,3
+Miami Air International,16217,YUL,14307,PVD,3
+Miami Air International,16229,YVR,11433,DTW,3
+Emirates,11455,DXB,12266,IAH,3
+Emirates,12478,JFK,11455,DXB,3
+Bemidji Airlines,10631,BJI,10739,BRD,3
+Bemidji Airlines,10739,BRD,13487,MSP,3
+Bemidji Airlines,13487,MSP,10631,BJI,3
+Kalitta Air LLC,10971,CGO,10299,ANC,3
+Kalitta Air LLC,11193,CVG,10299,ANC,3
+Kalitta Air LLC,11298,DFW,11193,CVG,3
+Kalitta Air LLC,11540,ELP,11193,CVG,3
+Kalitta Air LLC,12143,HKG,10299,ANC,3
+Kalitta Air LLC,12758,KOA,12892,LAX,3
+Kalitta Air LLC,12892,LAX,11193,CVG,3
+Kalitta Air LLC,13061,LRD,11540,ELP,3
+Kalitta Air LLC,10292,AMS,12478,JFK,3
+Kalitta Air LLC,10752,BRU,11193,CVG,3
+Kalitta Air LLC,12277,ICN,10299,ANC,3
+Kalitta Air LLC,12395,IST,12478,JFK,3
+Kalitta Air LLC,12938,LEJ,11193,CVG,3
+Kalitta Air LLC,12957,LGG,12478,JFK,3
+Kalitta Air LLC,13957,OST,12478,JFK,3
+Kalitta Air LLC,14309,PVG,10299,ANC,3
+Kalitta Air LLC,14717,SCL,13303,MIA,3
+Kalitta Air LLC,14771,SFO,12277,ICN,3
+Kalitta Air LLC,14918,SNN,10397,ATL,3
+Kalitta Air LLC,15567,VCP,13303,MIA,3
+Kalitta Air LLC,15868,WUH,10299,ANC,3
+Kalitta Air LLC,16085,YHZ,12478,JFK,3
+"Eastern Airlines f/k/a Dynamic Airways, LLC",11995,GSO,13303,MIA,3
+"Eastern Airlines f/k/a Dynamic Airways, LLC",11868,GCM,13303,MIA,3
+"Eastern Airlines f/k/a Dynamic Airways, LLC",13180,MBJ,13303,MIA,3
+"Eastern Airlines f/k/a Dynamic Airways, LLC",16271,YYZ,13303,MIA,3
+Rhoades Aviation dba Transair,13830,OGG,12173,HNL,3
+"Air Charter, Inc d/b/a Air Flamenco",11126,CPX,15626,VQS,3
+"Air Charter, Inc d/b/a Air Flamenco",14819,SIG,11126,CPX,3
+"Air Charter, Inc d/b/a Air Flamenco",15626,VQS,14819,SIG,3
+Southern Air Inc.,13198,MCI,11193,CVG,3
+Southern Air Inc.,13295,MHR,11193,CVG,3
+Southern Air Inc.,13871,OMA,15016,STL,3
+Southern Air Inc.,14512,RFD,11193,CVG,3
+Southern Air Inc.,14838,SJO,13061,LRD,3
+Southern Air Inc.,16232,YWG,11193,CVG,3
+Federal Express Corporation,10135,ABE,10434,AVP,3
+Federal Express Corporation,10136,ABI,12896,LBB,3
+Federal Express Corporation,10141,ABR,11775,FSD,3
+Federal Express Corporation,10154,ACK,14307,PVD,3
+Federal Express Corporation,10157,ACV,14893,SMF,3
+Federal Express Corporation,10170,ADQ,10299,ANC,3
+Federal Express Corporation,10257,ALB,11618,EWR,3
+Federal Express Corporation,10333,APN,11721,FNT,3
+Federal Express Corporation,10347,ARA,13244,MEM,3
+Federal Express Corporation,10408,ATW,13342,MKE,3
+Federal Express Corporation,10423,AUS,10194,AFW,3
+Federal Express Corporation,10434,AVP,13230,MDT,3
+Federal Express Corporation,10529,BDL,10535,BDR,3
+Federal Express Corporation,10558,BFF,11122,CPR,3
+Federal Express Corporation,10561,BFL,13891,ONT,3
+Federal Express Corporation,10562,BFM,13244,MEM,3
+Federal Express Corporation,10581,BGR,14231,PQI,3
+Federal Express Corporation,10617,BIH,12436,IYK,3
+Federal Express Corporation,10620,BIL,10713,BOI,3
+Federal Express Corporation,10627,BIS,11315,DIK,3
+Federal Express Corporation,10654,BKW,12223,HTS,3
+Federal Express Corporation,10685,BMI,11823,FWA,3
+Federal Express Corporation,10713,BOI,11122,CPR,3
+Federal Express Corporation,10732,BQN,13244,MEM,3
+Federal Express Corporation,10785,BTV,13244,MEM,3
+Federal Express Corporation,10792,BUF,11823,FWA,3
+Federal Express Corporation,10800,BUR,12339,IND,3
+Federal Express Corporation,10817,BWD,10423,AUS,3
+Federal Express Corporation,10821,BWI,11618,EWR,3
+Federal Express Corporation,10849,BZN,12003,GTF,3
+Federal Express Corporation,10918,CDC,12889,LAS,3
+Federal Express Corporation,10930,CEC,10157,ACV,3
+Federal Express Corporation,10980,CHA,13244,MEM,3
+Federal Express Corporation,10994,CHS,12451,JAX,3
+Federal Express Corporation,11002,CIC,14893,SMF,3
+Federal Express Corporation,11003,CID,11423,DSM,3
+Federal Express Corporation,11013,CIU,11986,GRR,3
+Federal Express Corporation,11042,CLE,11577,ERI,3
+Federal Express Corporation,11049,CLL,12266,IAH,3
+Federal Express Corporation,11076,CMX,11587,ESC,3
+Federal Express Corporation,11097,COD,11122,CPR,3
+Federal Express Corporation,11109,COS,11921,GJT,3
+Federal Express Corporation,11122,CPR,10558,BFF,3
+Federal Express Corporation,11150,CSG,10397,ATL,3
+Federal Express Corporation,11203,CWA,13342,MKE,3
+Federal Express Corporation,11267,DAY,13244,MEM,3
+Federal Express Corporation,11308,DHN,13244,MEM,3
+Federal Express Corporation,11315,DIK,11637,FAR,3
+Federal Express Corporation,11337,DLH,13487,MSP,3
+Federal Express Corporation,11415,DRT,14683,SAT,3
+Federal Express Corporation,11468,EAR,13871,OMA,3
+Federal Express Corporation,11537,ELM,14576,ROC,3
+Federal Express Corporation,11587,ESC,13342,MKE,3
+Federal Express Corporation,11617,EWN,14492,RDU,3
+Federal Express Corporation,11624,EYW,11697,FLL,3
+Federal Express Corporation,11637,FAR,10408,ATW,3
+Federal Express Corporation,11638,FAT,13244,MEM,3
+Federal Express Corporation,11697,FLL,10868,CAE,3
+Federal Express Corporation,11721,FNT,10333,APN,3
+Federal Express Corporation,11823,FWA,13244,MEM,3
+Federal Express Corporation,11867,GCK,12278,ICT,3
+Federal Express Corporation,11921,GJT,11109,COS,3
+Federal Express Corporation,11980,GRI,12899,LBF,3
+Federal Express Corporation,11986,GRR,11013,CIU,3
+Federal Express Corporation,12206,HRL,10194,AFW,3
+Federal Express Corporation,12217,HSV,13244,MEM,3
+Federal Express Corporation,12223,HTS,10693,BNA,3
+Federal Express Corporation,12323,ILM,14492,RDU,3
+Federal Express Corporation,12335,IMT,13342,MKE,3
+Federal Express Corporation,12363,IPL,14679,SAN,3
+Federal Express Corporation,12365,IPT,13230,MDT,3
+Federal Express Corporation,12389,ISN,11637,FAR,3
+Federal Express Corporation,12436,IYK,13891,ONT,3
+Federal Express Corporation,12441,JAC,14869,SLC,3
+Federal Express Corporation,12492,JHM,12173,HNL,3
+Federal Express Corporation,12889,LAS,10918,CDC,3
+Federal Express Corporation,12899,LBF,11980,GRI,3
+Federal Express Corporation,12917,LCK,10792,BUF,3
+Federal Express Corporation,12951,LFT,13244,MEM,3
+Federal Express Corporation,12992,LIT,13244,MEM,3
+Federal Express Corporation,13034,LNY,12173,HNL,3
+Federal Express Corporation,13246,MEO,13931,ORF,3
+Federal Express Corporation,13296,MHT,13244,MEM,3
+Federal Express Corporation,13347,MKK,12173,HNL,3
+Federal Express Corporation,13433,MOT,10627,BIS,3
+Federal Express Corporation,13459,MQT,13342,MKE,3
+Federal Express Corporation,13461,MQY,12339,IND,3
+Federal Express Corporation,13476,MRY,13796,OAK,3
+Federal Express Corporation,13501,MTH,11624,EYW,3
+Federal Express Corporation,13541,MVY,14307,PVD,3
+Federal Express Corporation,13577,MYR,10868,CAE,3
+Federal Express Corporation,13796,OAK,10194,AFW,3
+Federal Express Corporation,13862,OLF,12003,GTF,3
+Federal Express Corporation,13931,ORF,13244,MEM,3
+Federal Express Corporation,14004,PAE,12339,IND,3
+Federal Express Corporation,14113,PIH,12280,IDA,3
+Federal Express Corporation,14120,PIR,11775,FSD,3
+Federal Express Corporation,14150,PLN,10333,APN,3
+Federal Express Corporation,14231,PQI,10581,BGR,3
+Federal Express Corporation,14321,PWM,10581,BGR,3
+Federal Express Corporation,14487,RDD,10157,ACV,3
+Federal Express Corporation,14520,RHI,13342,MKE,3
+Federal Express Corporation,14524,RIC,12339,IND,3
+Federal Express Corporation,14543,RKS,11122,CPR,3
+Federal Express Corporation,14570,RNO,10713,BOI,3
+Federal Express Corporation,14574,ROA,13244,MEM,3
+Federal Express Corporation,14576,ROC,11537,ELM,3
+Federal Express Corporation,14588,ROW,12896,LBB,3
+Federal Express Corporation,14633,RST,11775,FSD,3
+Federal Express Corporation,14685,SAV,13244,MEM,3
+Federal Express Corporation,14691,SBD,13244,MEM,3
+Federal Express Corporation,14696,SBN,12339,IND,3
+Federal Express Corporation,14698,SBP,13891,ONT,3
+Federal Express Corporation,14704,SBY,10821,BWI,3
+Federal Express Corporation,14711,SCE,14122,PIT,3
+Federal Express Corporation,14730,SDF,13244,MEM,3
+Federal Express Corporation,14783,SGF,13244,MEM,3
+Federal Express Corporation,14794,SGU,12889,LAS,3
+Federal Express Corporation,14814,SHV,10194,AFW,3
+Federal Express Corporation,14842,SJT,10423,AUS,3
+Federal Express Corporation,14893,SMF,10157,ACV,3
+Federal Express Corporation,14905,SMX,13891,ONT,3
+Federal Express Corporation,14908,SNA,13244,MEM,3
+Federal Express Corporation,15024,STT,14843,SJU,3
+Federal Express Corporation,15027,STX,14843,SJU,3
+Federal Express Corporation,15041,SUN,14869,SLC,3
+Federal Express Corporation,15070,SWF,13230,MDT,3
+Federal Express Corporation,15376,TUS,13244,MEM,3
+Federal Express Corporation,15380,TVC,11986,GRR,3
+Federal Express Corporation,15381,TVF,11637,FAR,3
+Federal Express Corporation,15389,TWF,14869,SLC,3
+Federal Express Corporation,15412,TYS,10693,BNA,3
+Federal Express Corporation,15458,UKI,14893,SMF,3
+Federal Express Corporation,15525,UXK,13796,OAK,3
+Federal Express Corporation,15601,VIS,13796,OAK,3
+Federal Express Corporation,13788,VQQ,13244,MEM,3
+Federal Express Corporation,16042,YEG,13244,MEM,3
+Federal Express Corporation,16128,YMX,12339,IND,3
+Federal Express Corporation,16257,YYC,12003,GTF,3
+Federal Express Corporation,10711,BOG,13244,MEM,3
+Federal Express Corporation,11874,GDL,13244,MEM,3
+Federal Express Corporation,13514,MTY,13244,MEM,3
+Federal Express Corporation,15246,TLC,13244,MEM,3
+Federal Express Corporation,10920,CDG,11618,EWR,3
+Federal Express Corporation,10970,CGN,13244,MEM,3
+Federal Express Corporation,11760,FRA,13244,MEM,3
+Federal Express Corporation,13560,MXP,13244,MEM,3
+Federal Express Corporation,15018,STN,12339,IND,3
+Federal Express Corporation,10877,CAN,10299,ANC,3
+Federal Express Corporation,12016,GUM,14309,PVG,3
+Federal Express Corporation,12699,KIX,10299,ANC,3
+Federal Express Corporation,13744,NRT,10299,ANC,3
+Federal Express Corporation,15306,TPE,10299,ANC,3
+Grand Canyon Helicopters,10661,BLD,10011,1G4,3
+Polar Air Cargo Airways,13694,NGO,11193,CVG,3
+USA Jet Airlines Inc.,10747,BRO,11721,FNT,3
+USA Jet Airlines Inc.,10874,CAK,13061,LRD,3
+USA Jet Airlines Inc.,11146,CRW,13198,MCI,3
+USA Jet Airlines Inc.,12055,GYY,16091,YIP,3
+USA Jet Airlines Inc.,12598,JZT,16091,YIP,3
+USA Jet Airlines Inc.,13151,LZU,10317,AOH,3
+USA Jet Airlines Inc.,13256,MFE,11042,CLE,3
+USA Jet Airlines Inc.,15356,TTN,10980,CHA,3
+USA Jet Airlines Inc.,16091,YIP,10194,AFW,3
+USA Jet Airlines Inc.,11577,ERI,10638,BJX,3
+USA Jet Airlines Inc.,13306,MID,13061,LRD,3
+USA Jet Airlines Inc.,16477,QRO,16091,YIP,3
+USA Jet Airlines Inc.,16078,YHM,12055,GYY,3
+Omni Air International LLC,10982,CHD,11109,COS,3
+Omni Air International LLC,13587,MZJ,10821,BWI,3
+Martinair Holland N.V.,11625,EZE,13303,MIA,4
+Martinair Holland N.V.,12986,LIM,13303,MIA,4
+Martinair Holland N.V.,15455,UIO,13303,MIA,4
+Aerounion Aerotransporte de Carga Union SA de CV,13252,MEX,11193,CVG,3
+Silk Way West Airlines,10482,GYD,10397,ATL,3
+Qatar Airways (Q.C.S.C),11369,DOH,10397,ATL,4
+Singapore Airlines Ltd.,14824,SIN,11298,DFW,4
+"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",11869,GCN,10011,1G4,7
+"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",16428,L41,10011,1G4,7
+"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",14081,PGA,10011,1G4,7
+"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",14712,SCF,11869,GCN,7
+Miami Air International,11982,GRK,11697,FLL,8
+Miami Air International,13076,LSE,14321,PWM,8
+Miami Air International,14259,PSM,13303,MIA,8
+Miami Air International,15057,SVN,10990,CHO,8
+Miami Air International,11888,GEO,13303,MIA,8
+Miami Air International,12197,HPN,14293,PUJ,8
+Miami Air International,13602,NAN,12173,HNL,8
+"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",10011,1G4,11399,DQS,8
+Aerounion Aerotransporte de Carga Union SA de CV,12010,GUA,13303,MIA,8
+SkyLink Express Inc.,10559,BFI,16229,YVR,8
+Transportes Aereos Mercantiles Panamericanos S.A,13218,MDE,13303,MIA,8
+Alia-(The) Royal Jordanian,10287,AMM,12478,JFK,8
+AirBridgeCargo Airlines Limited,15058,SVO,11298,DFW,8
+Cargojet Airways Ltd.,10521,BDA,11618,EWR,8
+United Parcel Service,10146,ABY,12451,JAX,9
+United Parcel Service,12884,LAN,14730,SDF,9
+United Parcel Service,14108,PIA,14512,RFD,9
+United Parcel Service,14193,PNS,10146,ABY,9
+United Parcel Service,11548,EMA,14100,PHL,9
+United Parcel Service,13269,MGA,13303,MIA,9
+United Parcel Service,13605,NAS,13303,MIA,9
+United Parcel Service,14286,PTY,13303,MIA,9
+United Parcel Service,14677,SAL,13303,MIA,9
+United Parcel Service,14681,SAP,13303,MIA,9
+United Parcel Service,15113,SZX,10299,ANC,9
+Air Transport International,12324,ILN,11298,DFW,9
+Air Transport International,14716,SCK,10135,ABE,9
+ABX Air Inc,12651,KEF,15842,WRI,9
+ABX Air Inc,13618,NBW,13667,NGU,9
+ABX Air Inc,13667,NGU,13618,NBW,9
+ABX Air Inc,15842,WRI,13667,NGU,9
+"ADVANCED AIR, LLC",10857,C01,12127,HHR,9
+"ADVANCED AIR, LLC",12127,HHR,10857,C01,9
+Alaska Airlines Inc.,10165,ADK,10299,ANC,9
+Alaska Airlines Inc.,10551,BET,10170,ADQ,9
+Alaska Airlines Inc.,10754,BRW,10299,ANC,9
+Alaska Airlines Inc.,10926,CDV,12523,JNU,9
+Alaska Airlines Inc.,12523,JNU,10299,ANC,9
+Alaska Airlines Inc.,12819,KTN,10299,ANC,9
+Alaska Airlines Inc.,13873,OME,10170,ADQ,9
+Alaska Airlines Inc.,13970,OTZ,10299,ANC,9
+Alaska Airlines Inc.,14256,PSG,10299,ANC,9
+Alaska Airlines Inc.,14709,SCC,10299,ANC,9
+Alaska Airlines Inc.,14828,SIT,10299,ANC,9
+Alaska Airlines Inc.,15841,WRG,12523,JNU,9
+Alaska Airlines Inc.,15991,YAK,10299,ANC,9
+"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",10463,AZ1,10463,AZ1,1
+Mesa Airlines Inc.,11027,CKB,11042,CLE,1
+Mesa Airlines Inc.,11726,FOE,12266,IAH,1
+Mesa Airlines Inc.,15074,SWO,12266,IAH,1
+AirBridgeCargo Airlines Limited,11345,DME,11298,DFW,5
+Volga-Dnepr Airlines,13771,NUQ,10884,CAY,5
+Volga-Dnepr Airlines,11915,GIG,12266,IAH,6
+Atlas Air Inc.,11233,CYS,11292,DEN,6
+Atlas Air Inc.,11375,DOV,12478,JFK,6
+Atlas Air Inc.,12263,IAB,10994,CHS,6
+Atlas Air Inc.,14853,SKF,11193,CVG,6
+Atlas Air Inc.,15045,SUU,12892,LAX,6
+Atlas Air Inc.,12115,HGH,10299,ANC,6
+Atlas Air Inc.,12125,HHN,14771,SFO,6
+Atlas Air Inc.,13113,LUX,12217,HSV,6
+Atlas Air Inc.,13856,OKO,15045,SUU,6
+Atlas Air Inc.,15129,TAR,10994,CHS,6
+Atlas Air Inc.,15872,WUX,10299,ANC,6
+Southern Air Inc.,13360,MLB,11193,CVG,6
+Federal Express Corporation,16860,WI6,11203,CWA,6
+El Al Israel Airlines Ltd.,15258,TLV,12478,JFK,5
+"Jet Aviation Flight Services, Inc.",10325,APA,14908,SNA,6
+"Jet Aviation Flight Services, Inc.",10329,APF,13232,MDW,6
+"Jet Aviation Flight Services, Inc.",10372,ASE,14683,SAT,6
+"Jet Aviation Flight Services, Inc.",10670,BLM,10540,BED,6
+"Jet Aviation Flight Services, Inc.",10778,BTL,15356,TTN,6
+"Jet Aviation Flight Services, Inc.",11252,DAB,15167,TEB,6
+"Jet Aviation Flight Services, Inc.",11453,DWH,10372,ASE,6
+"Jet Aviation Flight Services, Inc.",11510,EGV,13232,MDW,6
+"Jet Aviation Flight Services, Inc.",11728,FOK,15167,TEB,6
+"Jet Aviation Flight Services, Inc.",12545,JRA,15167,TEB,6
+"Jet Aviation Flight Services, Inc.",12953,LGA,11066,CMH,6
+"Jet Aviation Flight Services, Inc.",13398,MMU,10540,BED,6
+"Jet Aviation Flight Services, Inc.",16861,N1J,15167,TEB,6
+"Jet Aviation Flight Services, Inc.",13987,OXC,15167,TEB,6
+"Jet Aviation Flight Services, Inc.",14050,PDK,13541,MVY,6
+"Jet Aviation Flight Services, Inc.",14182,PNE,12197,HPN,6
+"Jet Aviation Flight Services, Inc.",14255,PSF,15167,TEB,6
+"Jet Aviation Flight Services, Inc.",14320,PWK,13232,MDW,6
+"Jet Aviation Flight Services, Inc.",14695,SBM,14321,PWM,6
+"Jet Aviation Flight Services, Inc.",15167,TEB,10529,BDL,6
+"Jet Aviation Flight Services, Inc.",15401,TXK,15618,VNY,6
+"Jet Aviation Flight Services, Inc.",15618,VNY,12173,HNL,6
+"Jet Aviation Flight Services, Inc.",10186,AEY,14321,PWM,6
+"Jet Aviation Flight Services, Inc.",14153,PLS,15167,TEB,6
+"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",11399,DQS,10011,1G4,6
+Smokey Bay Air Inc.,10085,A72,12184,HOM,6
+Smokey Bay Air Inc.,14942,SOV,14088,PGM,6
+Island Air Service,10056,A43,10063,A50,6
+Island Air Service,13863,OLH,10243,AKK,6
+Warbelow,15725,WBQ,15061,SVS,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,10245,AKN,10299,ANC,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,10247,AKP,11630,FAI,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,10304,ANI,10299,ANC,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,10349,ARC,10247,AKP,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,10775,BTI,11630,FAI,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,11234,CYT,10299,ANC,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,11241,CZF,11512,EHM,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,11336,DLG,10245,AKN,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,11487,EDF,10299,ANC,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,11512,EHM,10299,ANC,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,11550,EMK,10299,ANC,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,11833,FYU,11630,FAI,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,11844,GAL,10299,ANC,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,12214,HSL,11630,FAI,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,12268,IAN,11630,FAI,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,12321,ILI,10299,ANC,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,12621,KBC,11630,FAI,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,12642,KCR,11630,FAI,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,12704,KKA,14856,SKK,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,12807,KSM,10299,ANC,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,12844,KVL,13970,OTZ,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,13111,LUR,11487,EDF,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,13381,MLY,14559,RMP,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,13732,NQA,13061,LRD,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,13768,NUL,12214,HSL,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,13868,OLS,15374,TUP,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,14273,PTH,10299,ANC,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,14412,QQB,10299,ANC,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,14474,RBY,11630,FAI,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,14551,RLU,11630,FAI,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,14559,RMP,15061,SVS,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,15061,SVS,11630,FAI,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,15063,SVW,10299,ANC,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,15250,TLJ,15063,SVW,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,15278,TNC,10299,ANC,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,15293,TOG,10299,ANC,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,15472,UMT,11630,FAI,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,15478,UNK,10299,ANC,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,15504,UTO,11487,EDF,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,15581,VEE,10349,ARC,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,15599,VIK,11630,FAI,6
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,16311,ZNC,11630,FAI,6
+"Corvus Airlines, Inc d/b/a Era Aviation d/b/a Ravn Alaska",11445,DUT,10299,ANC,6
+"Corvus Airlines, Inc d/b/a Era Aviation d/b/a Ravn Alaska",11463,EAA,10299,ANC,6
+"Corvus Airlines, Inc d/b/a Era Aviation d/b/a Ravn Alaska",11511,EGX,10299,ANC,6
+"Corvus Airlines, Inc d/b/a Era Aviation d/b/a Ravn Alaska",14856,SKK,15478,UNK,6
+Bering Air Inc.,10112,A99,13970,OTZ,6
+Bering Air Inc.,11535,ELI,15794,WMO,6
+Bering Air Inc.,13942,ORV,12268,IAN,6
+Iliamna Air Taxi,14046,PDB,12321,ILI,4
+Smokey Bay Air Inc.,12649,KEB,14942,SOV,4
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,11280,DCK,11630,FAI,4
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,11430,DTO,14004,PAE,4
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,14022,PBC,12266,IAH,4
+"Corvus Airlines, Inc d/b/a Era Aviation d/b/a Ravn Alaska",14919,SNP,11336,DLG,4
+"Corvus Airlines, Inc d/b/a Era Aviation d/b/a Ravn Alaska",15579,VDZ,10754,BRW,4
+Ryan Air f/k/a Arctic Transportation,10405,ATT,10551,BET,4
+Ryan Air f/k/a Arctic Transportation,16390,BVU,10299,ANC,4
+Ryan Air f/k/a Arctic Transportation,11227,CYF,10551,BET,4
+Ryan Air f/k/a Arctic Transportation,11411,DRG,13970,OTZ,4
+Ryan Air f/k/a Arctic Transportation,11845,GAM,13873,OME,4
+Ryan Air f/k/a Arctic Transportation,12195,HPB,10551,BET,4
+Ryan Air f/k/a Arctic Transportation,12676,KGX,10304,ANI,4
+Ryan Air f/k/a Arctic Transportation,12708,KKH,10551,BET,4
+Ryan Air f/k/a Arctic Transportation,12709,KKI,10551,BET,4
+Ryan Air f/k/a Arctic Transportation,12769,KOT,11550,EMK,4
+Ryan Air f/k/a Arctic Transportation,12779,KPN,10551,BET,4
+Ryan Air f/k/a Arctic Transportation,12822,KTS,13873,OME,4
+Ryan Air f/k/a Arctic Transportation,12831,KUK,10405,ATT,4
+Ryan Air f/k/a Arctic Transportation,12853,KWN,10551,BET,4
+Ryan Air f/k/a Arctic Transportation,12855,KWT,10551,BET,4
+Ryan Air f/k/a Arctic Transportation,13369,MLL,10551,BET,4
+Ryan Air f/k/a Arctic Transportation,13434,MOU,10551,BET,4
+Ryan Air f/k/a Arctic Transportation,13579,MYU,10551,BET,4
+Ryan Air f/k/a Arctic Transportation,13710,NME,10551,BET,4
+Ryan Air f/k/a Arctic Transportation,13770,NUP,12831,KUK,4
+Ryan Air f/k/a Arctic Transportation,14102,PHO,12844,KVL,4
+Ryan Air f/k/a Arctic Transportation,14282,PTU,10551,BET,4
+Ryan Air f/k/a Arctic Transportation,14493,RDV,10304,ANI,4
+Ryan Air f/k/a Arctic Transportation,14627,RSH,10551,BET,4
+Ryan Air f/k/a Arctic Transportation,14718,SCM,10551,BET,4
+Ryan Air f/k/a Arctic Transportation,14804,SHG,13970,OTZ,4
+Ryan Air f/k/a Arctic Transportation,14816,SHX,10304,ANI,4
+Ryan Air f/k/a Arctic Transportation,14880,SLQ,10304,ANI,4
+Ryan Air f/k/a Arctic Transportation,15245,TLA,13873,OME,4
+Ryan Air f/k/a Arctic Transportation,15282,TNK,10551,BET,4
+Ryan Air f/k/a Arctic Transportation,15554,VAK,10416,AUK,4
+Ryan Air f/k/a Arctic Transportation,15785,WLK,12268,IAN,4
+Ryan Air f/k/a Arctic Transportation,15798,WNA,10551,BET,4
+Ryan Air f/k/a Arctic Transportation,15862,WTL,10551,BET,4
+Ryan Air f/k/a Arctic Transportation,15887,WWT,10551,BET,4
+Grant Aviation,15853,WSN,10245,AKN,4
+Hageland Aviation Service,10184,AET,11630,FAI,4
+Hageland Aviation Service,10225,AIN,10754,BRW,4
+Hageland Aviation Service,10416,AUK,14234,PQS,4
+Hageland Aviation Service,10640,BKC,13970,OTZ,4
+Hageland Aviation Service,10996,CHU,11813,FVQ,4
+Hageland Aviation Service,11643,FBK,11630,FAI,4
+Hageland Aviation Service,11813,FVQ,10304,ANI,4
+Hageland Aviation Service,11941,GLV,15478,UNK,4
+Hageland Aviation Service,11952,GNU,10304,ANI,4
+Hageland Aviation Service,12087,HCR,10304,ANI,4
+Hageland Aviation Service,12235,HUS,11630,FAI,4
+Hageland Aviation Service,12719,KLG,12709,KKI,4
+Hageland Aviation Service,13196,MCG,10299,ANC,4
+Hageland Aviation Service,13894,OOK,10551,BET,4
+Hageland Aviation Service,14130,PKA,10304,ANI,4
+Hageland Aviation Service,14805,SHH,13873,OME,4
+Hageland Aviation Service,14895,SMK,10299,ANC,4
+Hageland Aviation Service,14987,SRV,10996,CHU,4
+Hageland Aviation Service,15257,TLT,10551,BET,4
+Hageland Aviation Service,15721,WBB,12807,KSM,4
+Hageland Aviation Service,15794,WMO,13873,OME,4
+Hageland Aviation Service,15861,WTK,12844,KVL,4
+Kalinin Aviation LLC d/b/a Alaska Seaplanes,10204,AGN,15231,TKE,4
+Kalinin Aviation LLC d/b/a Alaska Seaplanes,15231,TKE,10204,AGN,4
+"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service",11028,CKD,10551,BET,4
+"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service",11492,EEK,10551,BET,4
+"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service",12851,KWK,10551,BET,4
+Venture Travel LLC d/b/a Taquan Air Service,13693,NKI,15741,WFB,4
+40-Mile Air,15236,TKJ,12141,HKB,4
+Transportes Aereos Mercantiles Panamericanos S.A,10486,BAQ,12892,LAX,4
+Transportes Aereos Mercantiles Panamericanos S.A,11052,CLO,12892,LAX,4
+ABX Air Inc,12239,HUX,12892,LAX,4
+ABX Air Inc,15174,TER,15842,WRI,4
+Hageland Aviation Service,14738,SDP,10299,ANC,5
+"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service",10313,ANV,10551,BET,5
+Venture Travel LLC d/b/a Taquan Air Service,11484,EDA,12633,KCC,5
+Venture Travel LLC d/b/a Taquan Air Service,12252,HYG,11367,DOF,5
+Venture Travel LLC d/b/a Taquan Air Service,12253,HYL,12815,KTB,5
+Venture Travel LLC d/b/a Taquan Air Service,12633,KCC,11484,EDA,5
+Venture Travel LLC d/b/a Taquan Air Service,12815,KTB,10961,CGA,5
+Venture Travel LLC d/b/a Taquan Air Service,12847,KWF,15741,WFB,5
+Venture Travel LLC d/b/a Taquan Air Service,15741,WFB,13693,NKI,5
+Venture Travel LLC d/b/a Taquan Air Service,15885,WWP,12633,KCC,5
+Venture Travel LLC d/b/a Taquan Air Service,16340,ZXH,12815,KTB,5
+Alaska Central Express,10917,CDB,10299,ANC,5
+Alaska Central Express,13629,NCN,10299,ANC,5
+Alaska Central Express,15012,STG,10299,ANC,5
+Alaska Central Express,15171,TEK,10299,ANC,5
+40-Mile Air,11245,CZN,15236,TKJ,5
+Spernak Airways Inc.,12583,JZE,13467,MRI,5
+Spernak Airways Inc.,13467,MRI,16390,BVU,5
+Spernak Airways Inc.,14863,SKW,13467,MRI,5
+Spernak Airways Inc.,15406,TYE,13467,MRI,5
+Spernak Airways Inc.,15934,XWA,13467,MRI,5
+"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",12745,KNB,10011,1G4,5
+Antonov Company,12163,HMN,12938,LEJ,6
+Ellis Air Taxi Inc.,13574,MYK,11924,GKN,4
+"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",10185,AEX,10747,BRO,4
+"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",10466,AZA,10185,AEX,4
+"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",13898,OPF,13256,MFE,4
+"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",15295,TOL,14524,RIC,4
+"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",11731,FPO,13303,MIA,4
+"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",11789,FTW,14681,SAP,4
+"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",12073,HAV,13303,MIA,4
+Cargolux Airlines International S.A,12067,HAN,12917,LCK,6
+Cargolux Airlines International S.A,12739,KMQ,13930,ORD,6
+Cargolux Airlines International S.A,12832,KUL,13930,ORD,6
+Cargolux Airlines International S.A,14115,PIK,12892,LAX,6
+Kalitta Air LLC,13692,NKG,10299,ANC,5
+Kalitta Air LLC,16593,HFE,10299,ANC,5
+Kalitta Air LLC,12395,ISL,12478,JFK,5
+Kalitta Air LLC,13900,OPO,12478,JFK,5
+Kalitta Air LLC,15127,TAO,10299,ANC,5
+Kalitta Air LLC,16171,YQM,10299,ANC,5
+Kalitta Air LLC,16252,YXU,12478,JFK,5
+Transportes Aeros Meridiona,11988,GRU,13303,MIA,6
+Atlas Air Inc.,13619,NC1,13360,MLB,8
+Atlas Air Inc.,10314,ANX,15376,TUS,8
+Atlas Air Inc.,10517,BCN,12892,LAX,8
+Atlas Air Inc.,16286,ZAZ,13303,MIA,8
+Ryan Air f/k/a Arctic Transportation,10139,ABL,13970,OTZ,8
+Ryan Air f/k/a Arctic Transportation,13806,OBU,13970,OTZ,8
+Ryan Air f/k/a Arctic Transportation,14234,PQS,10551,BET,8
+Ryan Air f/k/a Arctic Transportation,15049,SVA,13873,OME,8
+Ryan Air f/k/a Arctic Transportation,15709,WAA,13873,OME,8
+Wright Air Service,12615,KAL,14474,RBY,8
+Hageland Aviation Service,10241,AKI,10551,BET,8
+Hageland Aviation Service,12720,KLL,10299,ANC,8
+Hageland Aviation Service,12868,KYU,13768,NUL,8
+Hageland Aviation Service,13767,NUI,10754,BRW,8
+Hageland Aviation Service,14125,PIZ,10754,BRW,8
+Hageland Aviation Service,15085,SXP,10416,AUK,8
+Hageland Aviation Service,15086,SXQ,10299,ANC,8
+Venture Travel LLC d/b/a Taquan Air Service,10961,CGA,12252,HYG,8
+Venture Travel LLC d/b/a Taquan Air Service,11367,DOF,10961,CGA,8
+Venture Travel LLC d/b/a Taquan Air Service,12773,KPB,12633,KCC,8
+Venture Travel LLC d/b/a Taquan Air Service,14229,PPV,11484,EDA,8
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,16853,1TX,14081,PGA,8
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,10228,AIZ,13461,MQY,8
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,11421,DSI,12217,HSV,8
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,11479,ECG,11479,ECG,8
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,11612,EVV,13461,MQY,8
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,12902,LBL,13461,MQY,8
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,13418,MNZ,10821,BWI,8
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,13870,OLV,10693,BNA,8
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,14098,PHF,11479,ECG,8
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,14131,PKB,13418,MNZ,8
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,14133,PKD,10631,BJI,8
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,14314,PVU,11267,DAY,8
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,12574,TN8,13461,MQY,8
+Northern Air Cargo Inc.,12693,KIN,13303,MIA,8
+Northern Air Cargo Inc.,14012,PAP,11697,FLL,8
+Northern Air Cargo Inc.,14030,PBM,13303,MIA,8
+Northern Air Cargo Inc.,14160,PMB,13303,MIA,8
+Northern Air Cargo Inc.,14210,POS,13303,MIA,8
+Northern Air Cargo Inc.,14485,RDB,10299,ANC,8
+40-Mile Air,12141,HKB,15236,TKJ,8
+"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",11335,DLF,10747,BRO,5
+"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",16133,YNG,14683,SAT,5
+Gem Air LLC,14897,SMN,10713,BOI,6
+"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",12051,GYE,13303,MIA,6
+Empire Airlines Inc.,14477,RCE,11762,FRD,8
+Star Marianas Air Inc.,14582,ROP,12016,GUM,9
+Star Marianas Air Inc.,14955,SPN,12016,GUM,9
+"Scott Aviation, LLC  d/b/a  Silver Air",10327,APC,13796,OAK,9
+"Scott Aviation, LLC  d/b/a  Silver Air",10647,BKL,14570,RNO,9
+"Scott Aviation, LLC  d/b/a  Silver Air",11041,CLD,14908,SNA,9
+"Scott Aviation, LLC  d/b/a  Silver Air",14465,RBD,11778,FSM,9
+"Scott Aviation, LLC  d/b/a  Silver Air",14577,ROG,14465,RBD,9
+Federal Express Corporation,12066,HAM,13244,MEM,9
+Federal Express Corporation,12101,HEL,13244,MEM,9
+Federal Express Corporation,13165,MAN,13244,MEM,9
+Federal Express Corporation,13472,MRS,10299,ANC,9
+Federal Express Corporation,15718,WAW,13244,MEM,9
+Federal Express Corporation,14789,SGN,13244,MEM,9
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,10731,BQK,13461,MQY,9
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,11278,DCA,13418,MNZ,9
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,11387,DQG,13105,LUK,9
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,11481,ECP,13461,MQY,9
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,11564,ENW,13461,MQY,9
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,11977,GRB,13461,MQY,9
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,12190,HOT,14683,SAT,9
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,16872,LA5,13461,MQY,9
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,13105,LUK,14122,PIT,9
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,15374,TUP,13461,MQY,9
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,15481,UOX,10693,BNA,9
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,15502,UTM,13418,MNZ,9
+Omni Air International LLC,11673,FHU,13587,MZJ,9
+Omni Air International LLC,12966,LGW,13204,MCO,9
+ABSA-Aerolinhas Brasileiras,13166,MAO,13303,MIA,10
+ABSA-Aerolinhas Brasileiras,15363,TUC,13303,MIA,10
+"Commutair Aka Champlain Enterprises, Inc.",12397,ITH,10792,BUF,3
+"Commutair Aka Champlain Enterprises, Inc.",16163,YQB,13931,ORF,3
+Ellis Air Taxi Inc.,11924,GKN,13574,MYK,3
+Sky Lease Cargo,11160,CSX,10299,ANC,3
+Asia Pacific,13162,MAJ,12173,HNL,9
+Asia Pacific,14186,PNI,12016,GUM,9
+Asia Pacific,14583,ROR,12016,GUM,9
+Asia Pacific,15237,TKK,12016,GUM,9
+Asia Pacific,15994,YAP,12016,GUM,9
+United Air Lines Inc.,11140,CRP,12266,IAH,9
+United Air Lines Inc.,12915,LCH,12266,IAH,9
+United Air Lines Inc.,12972,LHR,10423,AUS,9
+United Air Lines Inc.,15192,TGU,10423,AUS,9
+Volga-Dnepr Airlines,14051,PDL,10397,ATL,9
+Etihad Airways,11061,CMB,12917,LCK,6
+Ameristar Air Cargo,10171,ADS,12896,LBB,6
+Ameristar Air Cargo,10380,ASN,13203,MCN,6
+Ameristar Air Cargo,10838,BYH,10380,ASN,6
+Ameristar Air Cargo,11778,FSM,11042,CLE,6
+Ameristar Air Cargo,12945,LEX,12598,JZT,6
+Ameristar Air Cargo,13203,MCN,12878,LAF,6
+Ameristar Air Cargo,14258,PSK,10792,BUF,6
+Ameristar Air Cargo,14877,SLN,10994,CHS,6
+Ameristar Air Cargo,16166,YQG,16091,YIP,6
+Kenmore Air Harbor,11215,CXH,13002,LKE,6
+Kenmore Air Harbor,16603,DHB,11215,CXH,6
+Kenmore Air Harbor,12652,KEH,16603,DHB,6
+Kenmore Air Harbor,13002,LKE,13055,LPS,6
+Kenmore Air Harbor,13055,LPS,12652,KEH,6
+Kenmore Air Harbor,14572,RNT,12652,KEH,6
+Kenmore Air Harbor,14628,RSJ,12652,KEH,6
+Kenmore Air Harbor,15220,TIW,10559,BFI,6
+Kenmore Air Harbor,15650,VWE,10559,BFI,6
+Kenmore Air Harbor,16651,WA1,12652,KEH,6
+Kenmore Air Harbor,16007,YBL,10559,BFI,6
+Kenmore Air Harbor,16611,YPT,12652,KEH,6
+Kenmore Air Harbor,16310,ZNA,11646,FBS,6
+Kalitta Air LLC,13156,MAD,13303,MIA,6
+Lynden Air Cargo Airlines,16668,A1K,10299,ANC,6
+Lynden Air Cargo Airlines,10033,A20,10299,ANC,6
+Lynden Air Cargo Airlines,10396,ATK,14709,SCC,6
+Lynden Air Cargo Airlines,13292,MHM,10299,ANC,6
+Lynden Air Cargo Airlines,15090,SYA,10299,ANC,6
+Lynden Air Cargo Airlines,16273,YZF,10299,ANC,6
+Lynden Air Cargo Airlines,16050,YFB,10299,ANC,6
+Lynden Air Cargo Airlines,16141,YOC,10299,ANC,6
+Amerijet International,10312,ANU,11697,FLL,6
+Amerijet International,10575,BGI,13303,MIA,6
+Amerijet International,11950,GND,13303,MIA,6
+Amerijet International,14278,PTP,13303,MIA,6
+Amerijet International,14849,SKB,13303,MIA,6
+Amerijet International,15013,STI,13303,MIA,6
+Amerijet International,15084,SXM,13303,MIA,6
+Island Air Service,10243,AKK,12721,KLN,10
+Island Air Service,12705,KKB,10056,A43,10
+Island Air Service,12712,KKL,10056,A43,10
+Island Air Service,12743,KMY,10278,ALZ,10
+Island Air Service,12771,KOY,12743,KMY,10
+Island Air Service,12772,KOZ,10056,A43,10
+Island Air Service,12785,KPY,10056,A43,10
+Island Air Service,12854,KWP,15446,UGI,10
+Island Air Service,15091,SYB,12705,KKB,10
+Island Air Service,15446,UGI,12785,KPY,10
+Kalitta Charters II,10298,ANB,14730,SDF,10
+Kalitta Charters II,12391,ISP,12945,LEX,10
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,10683,BMG,13461,MQY,10
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,11961,GON,11387,DQG,10
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,12337,IN2,13461,MQY,10
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,13046,LOZ,14050,PDK,10
+USA Jet Airlines Inc.,10268,ALO,14730,SDF,10
+USA Jet Airlines Inc.,11376,DPA,16091,YIP,10
+USA Jet Airlines Inc.,12155,HLM,14730,SDF,10
+USA Jet Airlines Inc.,14736,SDM,11057,CLT,10
+USA Jet Airlines Inc.,15043,SUS,12307,II3,10
+USA Jet Airlines Inc.,13307,MIE,10638,BJX,10
+USA Jet Airlines Inc.,13464,MRC,16078,YHM,10
+USA Jet Airlines Inc.,14886,SLW,15295,TOL,10
+"Jet Aviation Flight Services, Inc.",10427,AUZ,13232,MDW,10
+"Jet Aviation Flight Services, Inc.",16815,N4Y,15167,TEB,10
+"Jet Aviation Flight Services, Inc.",13936,ORL,14027,PBI,10
+"Jet Aviation Flight Services, Inc.",14262,PSP,13232,MDW,10
+"Jet Aviation Flight Services, Inc.",14792,SGR,15167,TEB,10
+"Jet Aviation Flight Services, Inc.",15346,TSS,16815,N4Y,10
+"Jet Aviation Flight Services, Inc.",15447,UGN,12264,IAD,10
+"Jet Aviation Flight Services, Inc.",11032,CUN,15167,TEB,10
+"Jet Aviation Flight Services, Inc.",16186,YRQ,10721,BOS,10
+"Jet Aviation Flight Services, Inc.",16278,YZT,14771,SFO,10
+Tropic Ocean Airways LLC,10371,ASD,11827,FXE,10
+Tropic Ocean Airways LLC,16835,BS1,11697,FLL,10
+Tropic Ocean Airways LLC,16836,BS2,11697,FLL,10
+Tropic Ocean Airways LLC,16845,BS3,11697,FLL,10
+Tropic Ocean Airways LLC,11827,FXE,11697,FLL,10
+Tropic Ocean Airways LLC,12388,ISM,11697,FLL,10
+Tropic Ocean Airways LLC,16829,LNA,11697,FLL,10
+Federal Express Corporation,11908,GGW,10257,ALB,10
+Federal Express Corporation,11938,GLR,10930,CEC,10
+"Commutair Aka Champlain Enterprises, Inc.",10431,AVL,11996,GSP,1
+"Commutair Aka Champlain Enterprises, Inc.",10990,CHO,10785,BTV,1
+Sky Lease Cargo,13532,MVD,13303,MIA,4
+United Air Lines Inc.,11503,EGE,11292,DEN,1
+Cargolux Airlines International S.A,15917,XMN,12892,LAX,9
+Smokey Bay Air Inc.,10065,A52,12184,HOM,9
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,10005,05A,11630,FAI,9
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,14268,PTA,10551,BET,9
+"Corvus Airlines, Inc d/b/a Era Aviation d/b/a Ravn Alaska",14013,PAQ,11630,FAI,9
+Wright Air Service,15124,TAL,11844,GAL,9
+Hageland Aviation Service,11702,FLT,11813,FVQ,9
+Kalinin Aviation LLC d/b/a Alaska Seaplanes,12175,HNS,14797,SGY,9
+Kalitta Charters II,15163,TDF,10194,AFW,9
+Cargojet Airways Ltd.,10568,BFS,14747,SEA,9
+Cargojet Airways Ltd.,12054,GYR,16078,YHM,9
+Ryan Air f/k/a Arctic Transportation,11825,FWL,10299,ANC,9
+Cape Air,11519,EIS,15024,STT,9
+Cape Air,12250,HYA,10154,ACK,9
+Cape Air,15598,VIJ,15024,STT,9
+Miami Air International,10172,ADW,12945,LEX,9
+Miami Air International,13195,MCF,11057,CLT,9
+Grant Aviation,12635,KCG,12638,KCL,9
+Lynden Air Cargo Airlines,13003,LKK,10299,ANC,9
+Kalitta Charters II,11495,EFD,12954,LGB,6
+Kalitta Charters II,13809,OCF,11259,DAL,6
+Kalitta Charters II,15153,TCL,11871,GDC,6
+Ryan Air f/k/a Arctic Transportation,10923,CDL,13970,OTZ,6
+Ryan Air f/k/a Arctic Transportation,13676,NIB,11630,FAI,6
+Alaska Central Express,12737,KMO,10299,ANC,6
+Star Marianas Air Inc.,15215,TIQ,14582,ROP,7
+Ameristar Air Cargo,12149,HKY,13244,MEM,7
+Ameristar Air Cargo,13348,MKL,12878,LAF,7
+Federal Express Corporation,14424,QQN,15601,VIS,1
+Federal Express Corporation,15048,SUX,11775,FSD,1
+Federal Express Corporation,15310,TPL,10423,AUS,1
+Federal Express Corporation,15973,XXP,15458,UKI,1
+Federal Express Corporation,15092,SYD,12173,HNL,1
+Gulf And Caribbean Cargo,11527,EKY,14258,PSK,1
+Gulf And Caribbean Cargo,12119,HGR,11430,DTO,1
+Gulf And Caribbean Cargo,14275,PTK,13796,OAK,1
+Gulf And Caribbean Cargo,16218,YUM,11067,CMI,1
+Gulf And Caribbean Cargo,10638,BJX,15153,TCL,1
+Gulf And Caribbean Cargo,11187,CUU,11540,ELP,1
+Gulf And Caribbean Cargo,14879,SLP,15153,TCL,1
+Miami Air International,10155,ACT,13105,LUK,1
+Miami Air International,11067,CMI,12884,LAN,1
+Miami Air International,11391,DQK,13485,MSN,1
+Miami Air International,11973,GPT,14783,SGF,1
+Miami Air International,14952,SPI,11697,FLL,1
+Miami Air International,10411,AUA,13303,MIA,1
+Miami Air International,14312,PVR,14107,PHX,1
+Kenmore Air Harbor,16016,YCD,10559,BFI,1
+Kenmore Air Harbor,16233,YWH,11646,FBS,1
+Kalitta Air LLC,10856,BZZ,13930,ORD,1
+Kalitta Air LLC,13658,NGB,10299,ANC,1
+Western Global,11351,DNA,12892,LAX,1
+Western Global,12021,GUS,14814,SHV,1
+Western Global,12338,INC,10299,ANC,1
+Western Global,13087,LSV,13930,ORD,1
+Western Global,13304,MIB,10299,ANC,1
+Western Global,15422,UAM,13744,NRT,1
+Kalitta Charters II,14288,PUB,13796,OAK,1
+Kalitta Charters II,10911,CCS,13303,MIA,1
+Kalitta Charters II,13169,MAR,13303,MIA,1
+Lynden Air Cargo Airlines,11170,CTS,14955,SPN,1
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,10519,BCT,13289,MHH,1
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,10819,BWG,10693,BNA,1
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,15622,GA9,13461,MQY,1
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,12297,IGM,13203,MCN,1
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,12576,JXN,13461,MQY,1
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,13139,LYH,13461,MQY,1
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,13277,MGM,13461,MQY,1
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,13289,MHH,14027,PBI,1
+Amerijet International,15052,SVD,13303,MIA,1
+Gulf And Caribbean Cargo,11024,CJS,11540,ELP,4
+Miami Air International,12187,HOP,10599,BHM,4
+Miami Air International,12947,LFI,13303,MIA,4
+Antonov Company,16852,NLU,11308,DHN,5
+United Air Lines Inc.,11435,DUB,10721,BOS,5
+United Air Lines Inc.,11488,EDI,11042,CLE,5
+United Air Lines Inc.,11651,FCO,11986,GRR,5
+Kalinin Aviation LLC d/b/a Alaska Seaplanes,14062,PEC,11545,ELV,5
+Omni Air International LLC,11685,FKS,12173,HNL,5
+Omni Air International LLC,12690,KIJ,12173,HNL,5
+Omni Air International LLC,14733,SDJ,12173,HNL,5
+Lufthansa German Airlines,10993,CHR,12892,LAX,6
+Cape Air,15138,TBN,15016,STL,5
+Gulf And Caribbean Cargo,13829,OGD,11823,FWA,5
+Grant Aviation,12294,IGG,11336,DLG,5
+Grant Aviation,12641,KCQ,12635,KCG,5
+Western Global,10196,AGA,14635,RSW,5
+Western Global,12131,HIF,14954,SPM,5
+Western Global,15923,XPL,14730,SDF,5
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,10198,AGC,13461,MQY,5
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,12863,KY5,13461,MQY,5
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,13484,MSL,10693,BNA,5
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,13505,MTN,13461,MQY,5
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,14397,QMA,13418,MNZ,5
+Grant Aviation,12638,KCL,14273,PTH,10
+"Maritime Helicopters, Inc.",11214,CXF,14218,PPC,4
+"Maritime Helicopters, Inc.",11859,GBH,11859,GBH,4
+"Maritime Helicopters, Inc.",14218,PPC,11214,CXF,4
+"Maritime Helicopters, Inc.",12786,KQA,11445,DUT,5
+"Maritime Helicopters, Inc.",13513,MTX,15228,TKA,5
+"Maritime Helicopters, Inc.",15228,TKA,11555,ENA,5
+Kenmore Air Harbor,16609,BC9,13002,LKE,8
+Kenmore Air Harbor,11431,DTR,16310,ZNA,8
+Kenmore Air Harbor,11646,FBS,12652,KEH,8
+Kenmore Air Harbor,14295,PUL,12652,KEH,8
+Kenmore Air Harbor,16058,YGG,12652,KEH,8
+Kenmore Air Harbor,16614,YR1,12652,KEH,8
+Kenmore Air Harbor,16204,YTG,12652,KEH,8
+Kenmore Air Harbor,16263,YYJ,10559,BFI,8
+Western Global,10256,ALA,10299,ANC,8
+Western Global,13754,NSY,13667,NGU,8
+Western Global,16334,ZXA,13667,NGU,8
+National Air Cargo Group Inc d/ba National Airlines,16476,HYD,13930,ORD,8
+Asia Pacific,12798,KSA,12016,GUM,8
+Asia Pacific,14222,PPG,12173,HNL,8
+Antonov Company,15562,VBS,14122,PIT,4
+Ameristar Air Cargo,11058,CLU,13796,OAK,1
+Ameristar Air Cargo,11871,GDC,10171,ADS,1
+Ameristar Air Cargo,10545,BEL,14843,SJU,1
+Atlas Air Inc.,12169,HND,12266,IAH,10
+Atlas Air Inc.,15210,TIJ,12892,LAX,10
+Cape Air,14306,PVC,12197,HPN,10
+Western Global,14009,PAM,13930,ORD,4
+"Mokulele Flight Services, Inc.",13109,LUP,13830,OGG,4
+Volga-Dnepr Airlines,13604,NAP,14004,PAE,8
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,16584,AK7,11630,FAI,8
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,11007,CIK,11833,FYU,8
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,11086,CNO,10559,BFI,8
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,12164,HMO,13061,LRD,8
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,12571,JVL,11540,ELP,8
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,14656,RWI,13061,LRD,8
+Atlas Air Inc.,10279,AMA,12892,LAX,8
+USA Jet Airlines Inc.,15534,LPR,13198,MCI,6
+Cavok Air LLC,15053,SVG,11630,FAI,7
+Federal Express Corporation,10322,AOO,14711,SCE,7
+Federal Express Corporation,16335,ZXB,10140,ABQ,7
+Atlas Air Inc.,13367,MLI,10568,BFS,7
+National Air Cargo Group Inc d/ba National Airlines,16456,DWC,12917,LCK,7
+Cavok Air LLC,16268,YYT,13495,MSY,4
+Smokey Bay Air Inc.,10016,A03,12184,HOM,7
+Tropic Ocean Airways LLC,10927,CDW,16832,QNY,7
+Tropic Ocean Airways LLC,11907,GGT,11697,FLL,7
+Tropic Ocean Airways LLC,11911,GHC,11827,FXE,7
+Tropic Ocean Airways LLC,13439,MPB,11534,ELH,7
+Tropic Ocean Airways LLC,16832,QNY,10927,CDW,7
+Tropic Ocean Airways LLC,14986,SRQ,11697,FLL,7
+Tropic Ocean Airways LLC,15147,TCB,11697,FLL,7
+Tropic Ocean Airways LLC,15417,TZN,13303,MIA,7
+Island Air Service,13714,NNK,10243,AKK,7
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,13016,LMA,11630,FAI,7
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,15731,WCR,11630,FAI,7
+"Corvus Airlines, Inc d/b/a Era Aviation d/b/a Ravn Alaska",12728,KLW,12819,KTN,7
+Western Global,13525,MUO,12957,LGG,9
+"ADVANCED AIR, LLC",15232,TKF,14831,SJC,2
+Harris Air Services,12079,HBH,14828,SIT,5
+Katmai Air,11392,DQL,11336,DLG,5
+Volga-Dnepr Airlines,11799,FVC,12264,IAD,10
+Volga-Dnepr Airlines,13700,NKX,14071,PER,10
+Volga-Dnepr Airlines,15022,STR,14107,PHX,10
+Western Global,12525,JO2,13930,ORD,10
+Western Global,13483,MSJ,10299,ANC,10
+Western Global,13756,NTD,14635,RSW,10
+Western Global,13772,NUW,10299,ANC,10
+Western Global,13947,OSC,10581,BGR,10
+Island Air Service,10009,09A,10056,A43,10
+Island Air Service,10017,A04,10043,A30,10
+Island Air Service,10043,A30,10017,A04,10
+Island Air Service,10044,A31,10056,A43,10
+"Jet Aviation Flight Services, Inc.",14530,RIL,10372,ASE,1
+"Jet Aviation Flight Services, Inc.",15030,SUA,14027,PBI,1
+"Jet Aviation Flight Services, Inc.",15498,UT1,14869,SLC,1
+"Jet Aviation Flight Services, Inc.",16443,CSL,15618,VNY,1
+Antonov Company,15570,VCV,16772,AE2,3
+Cavok Air LLC,11047,CLJ,15370,TUL,6
+"Maritime Helicopters, Inc.",12721,KLN,12721,KLN,6
+Harris Air Services,12171,HNH,12523,JNU,4
+United Air Lines Inc.,10781,BTR,12266,IAH,5
+Tropic Ocean Airways LLC,11223,CXY,13303,MIA,5
+Tropic Ocean Airways LLC,13175,MAY,11697,FLL,5
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,11885,GEK,11630,FAI,5
+Antonov Company,15256,TLS,10562,BFM,10
+"Jet Aviation Flight Services, Inc.",10158,ACY,15356,TTN,9
+"Jet Aviation Flight Services, Inc.",10511,BCE,12247,HWD,9
+"Jet Aviation Flight Services, Inc.",15023,STS,14081,PGA,9
+"Jet Aviation Flight Services, Inc.",15779,WKV,15167,TEB,9
+"Jet Aviation Flight Services, Inc.",13094,LTN,15167,TEB,9
+Federal Express Corporation,13926,OR2,14054,PDT,9
+Federal Express Corporation,15992,YAM,13342,MKE,9
+Federal Express Corporation,16096,YKA,12236,HUT,9
+Federal Express Corporation,16115,YLW,11146,CRW,9
+Federal Express Corporation,16173,YQR,13487,MSP,9
+Federal Express Corporation,16174,YQT,13303,MIA,9
+Federal Express Corporation,16188,YSB,11637,FAR,9
+Federal Express Corporation,16214,YTS,11637,FAR,9
+Federal Express Corporation,16242,YXE,12278,ICT,9
+Federal Express Corporation,16246,YXL,12365,IPT,9
+Federal Express Corporation,16256,YYB,10397,ATL,9
+Federal Express Corporation,10716,BOM,13796,OAK,9
+Federal Express Corporation,10762,BSL,11618,EWR,9
+Federal Express Corporation,11290,DEL,10299,ANC,9
+Federal Express Corporation,14236,PRB,10136,ABI,10
+Federal Express Corporation,16857,SSF,10627,BIS,10
+Federal Express Corporation,10394,ATH,11618,EWR,10
+Federal Express Corporation,15081,SXF,13244,MEM,10
+Federal Express Corporation,10244,AKL,13796,OAK,10
+Federal Express Corporation,10968,CGK,13244,MEM,10
+Federal Express Corporation,11138,CRK,15422,UAM,10
+Omni Air International LLC,12829,KUH,10194,AFW,10
+United Air Lines Inc.,13422,MOB,13495,MSY,4
+Kenmore Air Harbor,16601,BC3,12652,KEH,9
+Kenmore Air Harbor,16515,WA9,10559,BFI,9
+Kenmore Air Harbor,16599,YBW,12652,KEH,9
+Kenmore Air Harbor,16036,YDS,11646,FBS,9
+Kenmore Air Harbor,16076,YHH,12652,KEH,9
+USA Jet Airlines Inc.,12307,II3,14623,RRT,9
+USA Jet Airlines Inc.,13184,MBS,15381,TVF,9
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,10216,AHN,13461,MQY,4
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,14564,RNC,14996,SSI,4
+Cavok Air LLC,10782,BTS,15370,TUL,5
+"Jet Aviation Flight Services, Inc.",11244,CZM,14027,PBI,2
+"Jet Aviation Flight Services, Inc.",15628,VRB,14838,SJO,2
+Tropic Ocean Airways LLC,11534,ELH,11697,FLL,2
+Western Global,11418,DSA,10397,ATL,2
+Western Global,12134,HIK,15108,SZL,2
+Western Global,12836,KUV,10299,ANC,2
+Western Global,15108,SZL,14635,RSW,2
+"Jet Aviation Flight Services, Inc.",10208,AGS,11066,CMH,4
+"Jet Aviation Flight Services, Inc.",11219,CXO,13303,MIA,4
+"Jet Aviation Flight Services, Inc.",11295,DET,12953,LGA,4
+"Jet Aviation Flight Services, Inc.",14996,SSI,13303,MIA,4
+"Jet Aviation Flight Services, Inc.",10224,AIK,13605,NAS,4
+Tropic Ocean Airways LLC,11732,FPR,11697,FLL,4
+Tropic Ocean Airways LLC,15260,TMB,10621,BIM,4
+Ameristar Air Cargo,15323,TRI,12878,LAF,10
+Trans States Airlines,12156,HLN,12992,LIT,10
+Trans States Airlines,14674,SAF,11122,CPR,10
+Miami Air International,12320,ILG,15074,SWO,10
+Miami Air International,13795,OAJ,12191,HOU,10
+Kalinin Aviation LLC d/b/a Alaska Seaplanes,14797,SGY,12175,HNS,1
+"Pacific Airways, Inc.",12857,KXA,12253,HYL,1
+"Pacific Airways, Inc.",15793,WMK,12633,KCC,1
+Avjet Corporation,13341,MKC,10800,BUR,3
+Ameristar Air Cargo,11834,FYV,10171,ADS,3
+Gulf And Caribbean Cargo,11699,FLO,14004,PAE,3
+"ADVANCED AIR, LLC",14898,SMO,12127,HHR,6
+"ADVANCED AIR, LLC",14965,SQA,13796,OAK,6
+Hageland Aviation Service,14601,RQI,14493,RDV,7
+Hageland Aviation Service,15339,TSG,11630,FAI,7
+Kalinin Aviation LLC d/b/a Alaska Seaplanes,11545,ELV,11619,EXI,7
+Venture Travel LLC d/b/a Taquan Air Service,13504,MTM,12252,HYG,7
+Western Global,11517,EIL,13930,ORD,7
+USA Jet Airlines Inc.,11659,FDY,13061,LRD,7
+"Prescott Support Company, Inc.",11904,GGE,13577,MYR,7
+"Prescott Support Company, Inc.",12559,JST,12365,IPT,7
+"Prescott Support Company, Inc.",12932,LEB,14321,PWM,7
+"Jet Aviation Flight Services, Inc.",10444,AXA,14320,PWK,5
+"Jet Aviation Flight Services, Inc.",14749,SEE,12889,LAS,5
+"Jet Aviation Flight Services, Inc.",15008,STC,13232,MDW,5
+"Jet Aviation Flight Services, Inc.",14645,RUH,15167,TEB,5
+Avjet Corporation,10630,BJC,14908,SNA,6
+Avjet Corporation,11098,COE,10800,BUR,6
+Avjet Corporation,14089,PGO,10800,BUR,6
+"Prescott Support Company, Inc.",12124,HHH,10208,AGS,1
+United Air Lines Inc.,12991,LIS,11278,DCA,5
+United Air Lines Inc.,13518,MUC,11433,DTW,5
+United Air Lines Inc.,16321,ZRH,13230,MDT,5
+United Air Lines Inc.,10717,BON,13487,MSP,5
+United Air Lines Inc.,10846,BZE,10423,AUS,5
+United Air Lines Inc.,14637,RTB,14683,SAT,5
+United Air Lines Inc.,14066,PEK,11042,CLE,5
+Iliamna Air Taxi,12784,KPV,10917,CDB,10
+United Air Lines Inc.,12990,LIR,14027,PBI,2
+United Air Lines Inc.,13502,MTJ,12012,GUC,3
+Federal Express Corporation,11283,DDC,12278,ICT,1
+Federal Express Corporation,12236,HUT,12278,ICT,1
+Federal Express Corporation,13297,MHV,10561,BFL,1
+Omni Air International LLC,13954,OSN,11298,DFW,2
+Avjet Corporation,11706,FLX,14570,RNO,2
+Avjet Corporation,12888,LAR,16229,YVR,2
+Singapore Airlines Ltd.,13614,BKK,10397,ATL,3
+Ameristar Air Cargo,13983,OWB,13898,OPF,5
+Kenmore Air Harbor,15708,WA7,12652,KEH,5
+Federal Express Corporation,11110,COT,14683,SAT,5
+Lynden Air Cargo Airlines,15508,UUK,14709,SCC,5
+40-Mile Air,11036,CKX,15236,TKJ,10
+Kalinin Aviation LLC d/b/a Alaska Seaplanes,11619,EXI,11997,GST,8
+Kalinin Aviation LLC d/b/a Alaska Seaplanes,14028,PBK,11545,ELV,8
+United Air Lines Inc.,10357,ARN,10581,BGR,8
+United Air Lines Inc.,15566,VCE,10529,BDL,8
+United Air Lines Inc.,16178,YQX,11618,EWR,8
+United Air Lines Inc.,14293,PUJ,10821,BWI,8
+"Jet Aviation Flight Services, Inc.",10414,AUG,15167,TEB,7
+"Jet Aviation Flight Services, Inc.",12222,HTO,11961,GON,7
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,11165,CTH,15016,STL,7
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,11282,DCU,13277,MGM,7
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,11359,DNN,13461,MQY,7
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,13282,MGW,13461,MQY,7
+Ameristar Air Cargo,11111,COU,15043,SUS,2
+Federal Express Corporation,16665,BBD,14842,SJT,2
+Federal Express Corporation,11483,ECU,11415,DRT,2
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,15919,XNA,12574,TN8,5
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,15981,XXX,13461,MQY,5
+Kenmore Air Harbor,15856,WSX,13002,LKE,7
+Kenmore Air Harbor,16570,YWS,12652,KEH,7
+Miami Air International,11185,CUR,13303,MIA,10
+Ameristar Air Cargo,14435,QQY,15246,TLC,9
+United Air Lines Inc.,15402,TXL,11042,CLE,7
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,16776,T2N,13461,MQY,7
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,15271,TN2,10693,BNA,7
+United Parcel Service,16267,YYR,14730,SDF,2
+National Air Cargo Group Inc d/ba National Airlines,13153,MAA,10397,ATL,2
+Antonov Company,10884,CAY,13771,NUQ,1
+Antonov Company,11099,COF,10369,ASB,1
+Miami Air International,13682,NIP,13303,MIA,6
+Miami Air International,12544,USA,11259,DAL,6
+Harris Air Services,11997,GST,14828,SIT,6
+Volga-Dnepr Airlines,12265,IAG,16456,DWC,3
+Volga-Dnepr Airlines,14071,PER,12266,IAH,3
+Volga-Dnepr Airlines,10870,CAG,13930,ORD,2
+Atlas Air Inc.,13791,NZY,10299,ANC,3
+Atlas Air Inc.,10790,BUD,12917,LCK,3
+Atlas Air Inc.,13928,ORB,10299,ANC,3
+Island Air Service,12782,KPR,10056,A43,3
+Western Global,14818,SID,14197,POB,3
+National Air Cargo Group Inc d/ba National Airlines,11992,GSB,13998,OZP,3
+"ADVANCED AIR, LLC",11784,FTG,14530,RIL,3
+"ADVANCED AIR, LLC",14967,SQL,13796,OAK,3
+"ADVANCED AIR, LLC",15325,TRM,12127,HHR,3
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,16848,2GA,13461,MQY,3
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,11123,CPS,13461,MQY,3
+Boutique Air,10221,AIA,10925,CDR,5
+Federal Express Corporation,16865,HDE,11468,EAR,8
+Federal Express Corporation,12154,HLI,14922,SNS,8
+Federal Express Corporation,12212,HSI,11468,EAR,8
+Federal Express Corporation,13344,MKG,11986,GRR,8
+Gulf And Caribbean Cargo,10317,AOH,14730,SDF,8
+Harris Air Services,12610,KAE,12523,JNU,8
+Qantas Airways Ltd.,13243,MEL,12478,JFK,9
+Miami Air International,16083,YHU,14122,PIT,2
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,16842,1GA,13461,MQY,2
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,16673,GA6,13461,MQY,2
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,16719,N2C,13461,MQY,2
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,14109,PIB,13461,MQY,2
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,15892,WY1,11784,FTG,2
+"Bidzy Ta Hot Aana, Inc. d/b/a Tanana Air Service",12755,KNW,12720,KLL,1
+Hageland Aviation Service,15385,TWA,15293,TOG,6
+Western Global,10714,BOJ,14730,SDF,6
+Western Global,10872,CAI,11992,GSB,6
+Western Global,12908,LBV,13930,ORD,6
+Western Global,14561,RMS,14197,POB,6
+"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service",15676,VZA,10551,BET,8
+"Maritime Helicopters, Inc.",11559,ENN,13513,MTX,10
+XTRA Airways,12882,LAL,12882,LAL,3
+"Jet Aviation Flight Services, Inc.",11592,ESN,15356,TTN,3
+"Jet Aviation Flight Services, Inc.",14207,POP,14100,PHL,3
+Tropic Ocean Airways LLC,11910,GHB,11697,FLL,3
+Tropic Ocean Airways LLC,15860,WTD,11697,FLL,3
+USA Jet Airlines Inc.,13241,MEI,13061,LRD,2
+USA Jet Airlines Inc.,14648,RUT,11193,CVG,2
+USA Jet Airlines Inc.,10210,AGU,13061,LRD,2
+Antonov Company,12625,KBL,14761,SFB,9
+Antonov Company,15906,XCR,14259,PSM,9
+Alaska Central Express,15700,VZY,10299,ANC,8
+Iliamna Air Taxi,14296,PUO,11555,ENA,8
+Iliamna Air Taxi,15069,SWD,12721,KLN,8
+"Jet Aviation Flight Services, Inc.",15020,STP,14689,SBA,8
+"Jet Aviation Flight Services, Inc.",15177,TEX,12892,LAX,8
+"Jet Aviation Flight Services, Inc.",16353,ZXU,11728,FOK,8
+USA Jet Airlines Inc.,13933,ORH,11193,CVG,8
+ABSA-Aerolinhas Brasileiras,11204,CWB,13303,MIA,7
+Volga-Dnepr Airlines,15326,TRN,10821,BWI,7
+Asia Pacific,14206,POM,12016,GUM,7
+Amerijet International,11654,FDF,13303,MIA,7
+"Jet Aviation Flight Services, Inc.",11790,FTY,10982,CHD,2
+"Jet Aviation Flight Services, Inc.",16582,GA5,11058,CLU,4
+"Jet Aviation Flight Services, Inc.",11899,GFL,10529,BDL,4
+"Jet Aviation Flight Services, Inc.",12244,HVN,11618,EWR,4
+Tradewind Aviation,10535,BDR,10815,BVY,4
+Tradewind Aviation,10815,BVY,10535,BDR,4
+Tradewind Aviation,16543,MA5,15167,TEB,4
+Tradewind Aviation,16851,NJ9,14492,RDU,4
+Tradewind Aviation,14769,SFM,12197,HPN,4
+Tradewind Aviation,15882,WWD,12197,HPN,4
+Tradewind Aviation,16215,YTZ,12197,HPN,4
+Svenskt Industriflyg AB,10678,BMA,11495,EFD,5
+Smokey Bay Air Inc.,14088,PGM,14942,SOV,1
+Island Air Service,12869,KZB,10056,A43,1
+Warbelow,10938,CEM,11630,FAI,1
+Warbelow,12370,IRC,15581,VEE,1
+Grant Aviation,14119,PIP,15448,UGS,1
+Grant Aviation,15448,UGS,14119,PIP,1
+"Pacific Airways, Inc.",16345,ZXM,15741,WFB,3
+Iliamna Air Taxi,12748,KNK,13715,NNL,7
+"Jet Aviation Flight Services, Inc.",10910,CCR,14457,RAP,5
+"Scott Aviation, LLC  d/b/a  Silver Air",11141,CRQ,14831,SJC,5
+"Scott Aviation, LLC  d/b/a  Silver Air",11803,FVG,15618,VNY,5
+Iliamna Air Taxi,13715,NNL,12748,KNK,1
+Iliamna Air Taxi,14167,PML,11555,ENA,10
+"Gestair, S.A.",15060,SVQ,15167,TEB,10
+Tradewind Aviation,10374,ASH,15167,TEB,2
+Tradewind Aviation,13125,LWM,11618,EWR,2
+Tradewind Aviation,16526,MA4,13230,MDT,2
+Tradewind Aviation,13984,OWD,12197,HPN,2
+"Bidzy Ta Hot Aana, Inc. d/b/a Tanana Air Service",12653,KEK,11336,DLG,5
+Kenmore Air Harbor,10385,AST,10559,BFI,5
+CAT Aviation,12026,GVA,14492,RDU,6
+"ADVANCED AIR, LLC",10958,CFT,15376,TUS,5
+"ADVANCED AIR, LLC",14673,SAD,15051,SVC,5
+Grant Aviation,11053,CLP,10245,AKN,8
+Island Air Service,10278,ALZ,10056,A43,2
+Island Air Service,13934,ORI,12721,KLN,2
+Warbelow,13415,MNT,13381,MLY,2
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,10783,BTT,11630,FAI,2
+Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,12279,ICY,11630,FAI,2
+"Bidzy Ta Hot Aana, Inc. d/b/a Tanana Air Service",12671,KGK,11336,DLG,2
+Air Hamburg Luftverkehrsgesellschaft mbH,10730,BQH,15167,TEB,5
+VistaJet Limited,11945,GMP,12173,HNL,6
+VistaJet Limited,14250,PSA,12003,GTF,6
+Tradewind Aviation,10964,CGE,15167,TEB,6
+Tradewind Aviation,11441,DUJ,12197,HPN,6
+Tradewind Aviation,11456,DXR,13958,OSU,6
+Tradewind Aviation,11615,EWB,15167,TEB,6
+Tradewind Aviation,12168,HNC,10540,BED,6
+Tradewind Aviation,13008,LKP,12197,HPN,6
+Tradewind Aviation,16553,ME4,12197,HPN,6
+Tradewind Aviation,13507,MTP,11456,DXR,6
+Unijet,12900,LBG,11618,EWR,10
+Tradewind Aviation,13599,NAD,13535,MVL,1
+Tropic Ocean Airways LLC,14682,SAQ,11697,FLL,1
+VistaJet Limited,11628,FAB,10423,AUS,3
+VistaJet Limited,16363,FHB,16321,ZRH,3
+VistaJet Limited,13952,OSL,14027,PBI,3
+VistaJet Limited,15595,VIE,10721,BOS,3
+Tradewind Aviation,10589,BHB,12197,HPN,7
+Tradewind Aviation,16710,MD2,16498,NY7,7
+Tradewind Aviation,13731,NPT,11728,FOK,7
+Tradewind Aviation,16498,NY7,10540,BED,7
+Tradewind Aviation,14875,SLK,10613,BID,7
+Tradewind Aviation,15427,UBF,14100,PHL,7
+Tradewind Aviation,15656,VWK,11728,FOK,7
+Harris Air Services,14270,PTD,14828,SIT,2
+Svenskt Industriflyg AB,10591,BHD,10397,ATL,1
+SkyWest Airlines Inc.,10469,AZO,11775,FSD,6
+Blue Jet SP Z o o,12933,LED,15167,TEB,2
+Albinati aviation Limited,12987,LIN,11618,EWR,2
+VistaJet Limited,10608,BHX,11259,DAL,2
+VistaJet Limited,13625,NCE,11618,EWR,2
+VistaJet Limited,15631,VRN,11259,DAL,2
+Island Air Service,12866,KYK,12721,KLN,3
+"Maritime Helicopters, Inc.",16567,7AK,12786,KQA,3
+"Scott Aviation, LLC  d/b/a  Silver Air",16770,CO1,10559,BFI,3
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,11015,CIW,13303,MIA,3
+Svenskt Industriflyg AB,11966,GOT,10397,ATL,9
+Grant Aviation,10237,AKB,10917,CDB,2
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,16537,LA1,12574,TN8,2
+Air Alsie A/S,16597,SIR,15167,TEB,2
+Chartright Air Inc.,14630,RSN,16115,YLW,1
+Air Alsie A/S,14781,SGD,11697,FLL,1
+Iliamna Air Taxi,15160,TCT,15881,WWA,6
+Iliamna Air Taxi,15881,WWA,15160,TCT,6
+"Jet Aviation Flight Services, Inc.",10436,AVW,14831,SJC,3
+"Jet Aviation Flight Services, Inc.",12965,LGU,11219,CXO,3
+"Jet Aviation Flight Services, Inc.",14318,PWA,15447,UGN,3
+Flying Group Lux S.A.,10310,ANR,10372,ASE,4
+"Jet Aviation Flight Services, Inc.",16074,YHD,10559,BFI,8
+Bering Air Inc.,10991,CHP,11643,FBK,8
+FAI rent-a-jet AG,16531,AZI,12264,IAD,7
+FAI rent-a-jet AG,14380,DMM,12889,LAS,7
+Air Alsie A/S,13143,LYS,13296,MHT,7
+Tradewind Aviation,11675,FID,12197,HPN,3
+Tradewind Aviation,16540,ME3,10540,BED,3
+Tradewind Aviation,14778,SFZ,12244,HVN,3
+Air Alsie A/S,10669,BLL,16091,YIP,3
+Air Alsie A/S,10746,BRN,10540,BED,3
+Air Alsie A/S,11118,CPH,10540,BED,3
+Air Alsie A/S,13818,ODE,11697,FLL,3
+Air Alsie A/S,16646,OXF,12197,HPN,3
+Air Alsie A/S,10205,AGP,10540,BED,4
+Air Alsie A/S,13145,LYX,15167,TEB,4
+"Scott Aviation, LLC  d/b/a  Silver Air",14303,PUW,14004,PAE,4
+Air Alsie A/S,14191,PNQ,15167,TEB,8
+"ADVANCED AIR, LLC",15434,UDD,14898,SMO,9
+"Jet Aviation Flight Services, Inc.",16495,CT2,15346,TSS,6
+"Scott Aviation, LLC  d/b/a  Silver Air",16755,T8X,16271,YYZ,6
+Island Air Service,11299,DGB,13934,ORI,6
+Island Air Service,10042,A29,10056,A43,4
+Venture Travel LLC d/b/a Taquan Air Service,15754,WHD,15741,WFB,5
+London Air Services Limited,15706,WA5,16229,YVR,5
+Wright Air Service,13564,MXY,11630,FAI,8
+Venture Travel LLC d/b/a Taquan Air Service,12983,LIJ,15741,WFB,8
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,16680,N1Y,13930,ORD,8
+FAI rent-a-jet AG,15928,XRY,14057,PDX,10
+VistaJet Limited,14453,RAK,15167,TEB,9
+VistaJet Limited,15335,TSA,10299,ANC,9
+Kenmore Air Harbor,16650,B2C,13002,LKE,6
+VistaJet Limited,11437,DUD,12173,HNL,10
+VistaJet Limited,13051,LPL,10540,BED,10
+VistaJet Limited,13799,OAX,12758,KOA,10
+VistaJet Limited,15343,TSN,10299,ANC,10
+"Jet Aviation Flight Services, Inc.",12068,HAO,14320,PWK,10
+"ADVANCED AIR, LLC",13570,MYF,12889,LAS,10
+Bering Air Inc.,11008,CIL,13873,OME,9
+Tradewind Aviation,10965,CGF,13398,MMU,9
+Tradewind Aviation,16871,CT7,13931,ORF,9
+Tradewind Aviation,12484,JGG,12197,HPN,9
+Tradewind Aviation,13808,OCE,12320,ILG,9
+Tradewind Aviation,13958,OSU,13446,MPO,9
+Tradewind Aviation,14332,PYM,12197,HPN,9
+Tradewind Aviation,14802,SHD,12197,HPN,9
+ACM AIR CHARTER GmbH,14166,PMI,10540,BED,9
+ACM AIR CHARTER GmbH,16120,YML,10721,BOS,9
+Tradewind Aviation,16525,PA5,15167,TEB,6
+Tradewind Aviation,15855,WST,13507,MTP,6
+Tradewind Aviation,15931,XSM,15167,TEB,6
+ACM AIR CHARTER GmbH,15635,VST,12197,HPN,7
+Kenmore Air Harbor,16172,YQQ,10559,BFI,1
+Tradewind Aviation,11842,GAI,11728,FOK,5
+Tradewind Aviation,12029,GVQ,10815,BVY,5
+Tradewind Aviation,13674,NHZ,12197,HPN,5
+Tradewind Aviation,14044,PCT,10154,ACK,5
+Avjet Corporation,12211,HSH,13796,OAK,5
+Tropic Ocean Airways LLC,16825,TYM,11697,FLL,8
+Chartright Air Inc.,16546,ON1,14307,PVD,8
+Chartright Air Inc.,16523,YPD,12197,HPN,7
+VistaJet Limited,11636,FAO,10559,BFI,7
+VistaJet Limited,14961,SPU,11618,EWR,7
+VistaJet Limited,15604,VKO,11618,EWR,7
+Island Air Service,10088,A75,10056,A43,7
+Tradewind Aviation,10478,BAF,13541,MVY,8
+Tradewind Aviation,10613,BID,14875,SLK,8
+Tradewind Aviation,11862,GBR,12070,HAR,8
+Tradewind Aviation,12070,HAR,11862,GBR,8
+Tradewind Aviation,12898,LBE,10154,ACK,8
+Tradewind Aviation,12916,LCI,12197,HPN,8
+Tradewind Aviation,13376,MLT,10721,BOS,8
+Tradewind Aviation,16442,NY5,16503,ME2,8
+Tradewind Aviation,16512,NY8,13541,MVY,8
+Tradewind Aviation,13861,OLE,13541,MVY,8
+"ADVANCED AIR, LLC",16817,NV6,12127,HHR,2
+Warbelow,10040,A27,11630,FAI,5
+"Jet Aviation Flight Services, Inc.",13832,OGS,14320,PWK,9
+"Scott Aviation, LLC  d/b/a  Silver Air",12136,HIO,14747,SEA,10
+SkyWest Airlines Inc.,10409,ATY,14120,PIR,9
+Tradewind Aviation,11372,DOM,14843,SJU,3
+Tradewind Aviation,11493,EEN,15167,TEB,3
+Tradewind Aviation,16533,JBQ,14819,SIG,3
+Tradewind Aviation,13176,MAZ,14843,SJU,3
+Tradewind Aviation,16634,MQI,15167,TEB,3
+Tradewind Aviation,16541,OBE,12197,HPN,3
+Tradewind Aviation,14553,RME,15167,TEB,3
+"Scott Aviation, LLC  d/b/a  Silver Air",12185,HON,10849,BZN,4
+"Scott Aviation, LLC  d/b/a  Silver Air",12247,HWD,15618,VNY,4
+"Scott Aviation, LLC  d/b/a  Silver Air",13251,MEV,10800,BUR,4
+"Scott Aviation, LLC  d/b/a  Silver Air",13453,MQJ,10800,BUR,4
+"Scott Aviation, LLC  d/b/a  Silver Air",15877,WVI,14570,RNO,4
+"ADVANCED AIR, LLC",12062,HAF,14898,SMO,4
+Air Alsie A/S,14639,RTM,14908,SNA,5
+FAI rent-a-jet AG,11276,DBV,14747,SEA,5
+VistaJet Limited,10201,AGH,15167,TEB,5
+VistaJet Limited,10712,BOH,13303,MIA,5
+London Air Services Limited,11525,EKO,16229,YVR,5
+"Scott Aviation, LLC  d/b/a  Silver Air",10950,CEZ,15618,VNY,9
+"Scott Aviation, LLC  d/b/a  Silver Air",11452,DWA,15232,TKF,9
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,10572,BGD,14689,SBA,9
+Chartright Air Inc.,16097,YKF,10792,BUF,9
+JetClub AG,14686,SAW,11618,EWR,10
+FAI rent-a-jet AG,12913,LCE,12264,IAD,10
+VistaJet Limited,11700,FLR,12197,HPN,9
+VistaJet Limited,13359,MLA,10721,BOS,9
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,11197,CVN,14107,PHX,10
+Chartright Air Inc.,11090,CNW,16271,YYZ,10
+Chartright Air Inc.,16266,YYQ,14100,PHL,10
+VistaJet Limited,11000,CIA,11789,FTW,10
+VistaJet Limited,13047,LPA,10559,BFI,10
+"Jet Aviation Flight Services, Inc.",10741,BRG,12068,HAO,10
+Tradewind Aviation,11106,CON,12197,HPN,9
+Tradewind Aviation,16454,VGC,10670,BLM,9
+Tradewind Aviation,16162,YQA,12197,HPN,9
+Wright Air Service,10014,A01,11630,FAI,9
+VistaJet Limited,13121,LWB,13605,NAS,8
+Tradewind Aviation,16569,NY9,10815,BVY,6
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,12078,HBG,13461,MQY,1
+Tradewind Aviation,10361,ART,10815,BVY,5
+Tradewind Aviation,16479,MA2,12222,HTO,5
+Tradewind Aviation,13685,NJ1,12197,HPN,5
+Grant Aviation,12841,KVC,10917,CDB,5
+"ADVANCED AIR, LLC",13988,OXR,12127,HHR,1
+"ADVANCED AIR, LLC",14672,SAC,14831,SJC,1
+"Mokulele Flight Services, Inc.",12174,HNM,13347,MKK,2
+ACM AIR CHARTER GmbH,11655,FDH,10540,BED,5
+Tropic Ocean Airways LLC,14950,SPG,15260,TMB,8
+FAI rent-a-jet AG,10480,BAH,14262,PSP,9
+Chartright Air Inc.,13493,MSV,16271,YYZ,8
+"Scott Aviation, LLC  d/b/a  Silver Air",12348,INT,10372,ASE,8
+"Scott Aviation, LLC  d/b/a  Silver Air",13120,LVS,10559,BFI,8
+FAI rent-a-jet AG,11161,CTA,13931,ORF,6
+Swiss Air Ambulance,10959,CFU,14027,PBI,6
+Air Alsie A/S,14540,RKE,15167,TEB,6
+Chartright Air Inc.,16290,ZBM,10154,ACK,7
+London Air Services Limited,16254,YXY,13546,MWH,7
+Grant Aviation,14037,PCA,11336,DLG,7
+Tradewind Aviation,10577,BGM,11764,FRG,8
+Tradewind Aviation,12494,JHW,10540,BED,8
+Tradewind Aviation,14610,RQR,11728,FOK,8
+Tradewind Aviation,16191,YSJ,12197,HPN,8
+"Air Charter, Inc d/b/a Air Flamenco",12553,JRV,15626,VQS,1
+"Scott Aviation, LLC  d/b/a  Silver Air",13192,MCC,15618,VNY,2
+"Scott Aviation, LLC  d/b/a  Silver Air",13655,NEW,14027,PBI,2
+"ADVANCED AIR, LLC",13388,MMH,12127,HHR,2
+Tradewind Aviation,12944,LEW,13731,NPT,10
+"Maritime Helicopters, Inc.",12315,IKO,10237,AKB,6
+Island Air Service,13888,ONN,10056,A43,5
+Air Hamburg Luftverkehrsgesellschaft mbH,11928,GLA,12892,LAX,10
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,14713,SCH,15167,TEB,4
+"Jet Aviation Flight Services, Inc.",13377,MLU,13495,MSY,2
+"Jet Aviation Flight Services, Inc.",11883,GED,13303,MIA,4
+Tradewind Aviation,14692,SBH,15024,STT,4
+Tradewind Aviation,14751,SEG,12197,HPN,4
+"ADVANCED AIR, LLC",15051,SVC,14673,SAD,7
+"Jet Aviation Flight Services, Inc.",15338,TSF,15167,TEB,5
+"Scott Aviation, LLC  d/b/a  Silver Air",10465,AZ3,10559,BFI,5
+"Scott Aviation, LLC  d/b/a  Silver Air",10945,CEU,10208,AGS,5
+"Scott Aviation, LLC  d/b/a  Silver Air",13200,MCK,14689,SBA,5
+"Scott Aviation, LLC  d/b/a  Silver Air",14228,PPT,15618,VNY,5
+"Scott Aviation, LLC  d/b/a  Silver Air",14735,SDL,13898,OPF,5
+"Gestair, S.A.",10623,BIO,12889,LAS,10
+ACM AIR CHARTER GmbH,15183,TFS,10540,BED,10
+Tradewind Aviation,16542,RBW,10815,BVY,2
+Tradewind Aviation,14884,SLU,14843,SJU,2
+FAI rent-a-jet AG,10579,BGO,12892,LAX,4
+Katmai Air,14468,RBH,10170,ADQ,7
+Kalinin Aviation LLC d/b/a Alaska Seaplanes,10886,CBA,12523,JNU,8
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,12012,GUC,10849,BZN,7
+Air Hamburg Luftverkehrsgesellschaft mbH,14854,SKG,14771,SFO,5
+Tradewind Aviation,16520,DE2,12197,HPN,6
+Tradewind Aviation,11656,FDK,12168,HNC,6
+Tradewind Aviation,12108,HFD,13507,MTP,6
+Tradewind Aviation,12130,HIE,11764,FRG,6
+Kenmore Air Harbor,14972,SQV,10559,BFI,7
+Tradewind Aviation,10472,B21,11456,DXR,1
+Tradewind Aviation,13068,LRM,14843,SJU,1
+Harris Air Services,10697,BNF,14828,SIT,3
+Chartright Air Inc.,16663,IN6,16271,YYZ,3
+Chartright Air Inc.,16061,YGK,10329,APF,3
+VistaJet Limited,13672,NHT,10540,BED,3
+VistaJet Limited,15783,WLG,14275,PTK,3
+Tradewind Aviation,10010,1B1,10154,ACK,7
+Tradewind Aviation,10504,BBX,13541,MVY,7
+Tradewind Aviation,16441,CT1,14332,PYM,7
+Tradewind Aviation,12599,JZU,10535,BDR,7
+Tradewind Aviation,13535,MVL,15167,TEB,7
+Tradewind Aviation,16863,N5Y,10154,ACK,7
+Tradewind Aviation,14539,RKD,10721,BOS,7
+VistaJet Limited,11985,GRQ,13303,MIA,2
+"Scott Aviation, LLC  d/b/a  Silver Air",10560,BFK,10713,BOI,3
+FAI rent-a-jet AG,13765,NUE,14122,PIT,1
+Chartright Air Inc.,12661,OCA,16271,YYZ,1
+Chartright Air Inc.,10570,BGA,12191,HOU,6
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,11576,ERF,14831,SJC,6
+Tropic Ocean Airways LLC,11714,FMY,11697,FLL,3
+Skyfirst Limited,13140,LYN,12892,LAX,4
+JetClub AG,12914,LCG,10721,BOS,9
+FAI rent-a-jet AG,12472,JED,10994,CHS,7
+FAI rent-a-jet AG,13966,OTP,13342,MKE,8
+FAI rent-a-jet AG,14263,PSR,11433,DTW,8
+Tradewind Aviation,12587,JZI,12197,HPN,4
+Grant Aviation,12663,KFP,10917,CDB,6
+FAI rent-a-jet AG,10127,AAN,12892,LAX,4
+FAI rent-a-jet AG,12813,KSU,14747,SEA,4
+VistaJet Limited,13408,MNL,10299,ANC,6
+VistaJet Limited,14670,SAA,10357,ARN,6
+VistaJet Limited,13491,MST,11697,FLL,3
+VistaJet Limited,14750,SEF,15084,SXM,3
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,16261,YYG,10693,BNA,7
+Tradewind Aviation,13211,MCW,12197,HPN,7
+Tradewind Aviation,16821,MI7,12264,IAD,7
+Tradewind Aviation,16279,YZV,14321,PWM,7
+Avjet Corporation,16679,MRF,14679,SAN,8
+VistaJet Limited,15106,SZG,14831,SJC,2
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,10590,IFP,14831,SJC,2
+Chartright Air Inc.,11035,CKV,16271,YYZ,1
+Chartright Air Inc.,15497,UST,16271,YYZ,1
+ABS JETS A.S,14239,PRG,15167,TEB,7
+Tropic Ocean Airways LLC,10916,CCZ,11697,FLL,3
+Envoy Air,11641,FAY,11298,DFW,3
+Unijet,13065,LRH,15167,TEB,7
+Talofa Airways Limited,10338,APW,14222,PPG,8
+Air Alsie A/S,12064,HAJ,11259,DAL,3
+"ADVANCED AIR, LLC",11616,EWK,14749,SEE,9
+VistaJet Limited,11444,DUS,12197,HPN,5
+Chartright Air Inc.,12193,HOW,12264,IAD,4
+FAI rent-a-jet AG,11680,FJR,11042,CLE,10
+VistaJet Limited,12344,INN,15167,TEB,9
+SkyWest Airlines Inc.,11447,DVL,11898,GFK,4
+SkyWest Airlines Inc.,11898,GFK,11292,DEN,4
+Tradewind Aviation,16748,DYL,14259,PSM,9
+Tradewind Aviation,16868,NH5,10540,BED,9
+Kenmore Air Harbor,16604,BC5,13002,LKE,8
+Kenmore Air Harbor,16619,BC7,14477,RCE,8
+"ADVANCED AIR, LLC",16844,2CA,12127,HHR,1
+"ADVANCED AIR, LLC",14922,SNS,13988,OXR,1
+FAI rent-a-jet AG,12911,LCA,10721,BOS,9
+FAI rent-a-jet AG,13208,MCT,14633,RST,9
+FAI rent-a-jet AG,14876,SLL,14633,RST,9
+CAT Aviation,14904,SMV,15167,TEB,2
+Tropic Ocean Airways LLC,10621,BIM,13303,MIA,7
+Envoy Air,15411,TYR,11298,DFW,5
+Island Air Service,10078,A65,10056,A43,10
+Tropic Ocean Airways LLC,15778,WKR,11697,FLL,5
+"ADVANCED AIR, LLC",10832,BXS,15618,VNY,4
+"ADVANCED AIR, LLC",11218,CXL,14262,PSP,4
+"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",16837,AZ7,11869,GCN,8
+"Pacific Airways, Inc.",16346,ZXN,15741,WFB,6
+Chartright Air Inc.,16175,YQU,10299,ANC,4
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,16812,GA8,13461,MQY,10
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,13447,MPR,10693,BNA,10
+Tradewind Aviation,15021,STQ,10721,BOS,9
+Tradewind Aviation,16158,YPS,13398,MMU,9
+"Scott Aviation, LLC  d/b/a  Silver Air",16560,OR4,10559,BFI,8
+VistaJet Limited,12274,IBZ,12478,JFK,7
+Tropic Ocean Airways LLC,12080,HBI,11697,FLL,7
+Tradewind Aviation,10780,BTP,12197,HPN,8
+Tradewind Aviation,14212,POU,11728,FOK,8
+"Scott Aviation, LLC  d/b/a  Silver Air",13217,MDD,10372,ASE,7
+"Scott Aviation, LLC  d/b/a  Silver Air",13575,MYL,15618,VNY,7
+Tradewind Aviation,11558,ENL,14640,RTN,10
+Tradewind Aviation,13446,MPO,13493,MSV,10
+Tradewind Aviation,14640,RTN,11456,DXR,10
+"Jet Aviation Flight Services, Inc.",10470,AZS,14027,PBI,1
+"Scott Aviation, LLC  d/b/a  Silver Air",11450,DVT,13418,MNZ,10
+"Jet Aviation Flight Services, Inc.",15383,TVL,11618,EWR,4
+Tradewind Aviation,13394,MMN,12197,HPN,4
+Tradewind Aviation,15879,WVL,12197,HPN,4
+"ADVANCED AIR, LLC",15433,UCY,12127,HHR,6
+Iliamna Air Taxi,15838,WQZ,12638,KCL,7
+"Scott Aviation, LLC  d/b/a  Silver Air",11060,CMA,12191,HOU,5
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,10744,BRL,14730,SDF,7
+Tradewind Aviation,10309,ANP,12197,HPN,6
+Tradewind Aviation,11773,FRY,11456,DXR,6
+Air Alsie A/S,13366,MLH,10540,BED,10
+Tradewind Aviation,15382,TVI,15167,TEB,1
+Tradewind Aviation,15634,VSF,12197,HPN,1
+VistaJet Limited,14545,RKV,12953,LGA,3
+Tradewind Aviation,16503,ME2,11728,FOK,7
+Tradewind Aviation,16064,YGP,12197,HPN,7
+VistaJet Limited,13261,MFM,12173,HNL,2
+"Scott Aviation, LLC  d/b/a  Silver Air",13072,LRU,15618,VNY,3
+"Scott Aviation, LLC  d/b/a  Silver Air",15235,TKI,14908,SNA,3
+"Scott Aviation, LLC  d/b/a  Silver Air",15589,VGT,11450,DVT,3
+"ADVANCED AIR, LLC",15649,VWD,14898,SMO,3
+Boutique Air,10925,CDR,10221,AIA,5
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,10440,AWM,13461,MQY,2
+Chartright Air Inc.,11288,DEC,16271,YYZ,6
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,12455,JBR,13461,MQY,6
+Tropic Ocean Airways LLC,13746,NSB,14027,PBI,4
+Tradewind Aviation,10569,BFT,12197,HPN,4
+Tradewind Aviation,13463,MRB,10540,BED,4
+SkyWest Airlines Inc.,14006,PAH,13344,MKG,7
+Tradewind Aviation,16847,IL3,11764,FRG,2
+Tradewind Aviation,15737,WDR,12197,HPN,2
+FAI rent-a-jet AG,14754,SEN,15304,TPA,4
+Kenmore Air Harbor,15707,WA6,13002,LKE,7
+Albinati Aeronautics SA,15254,TLN,15167,TEB,7
+"ADVANCED AIR, LLC",11554,EMT,11218,CXL,4
+Chartright Air Inc.,15011,STF,16115,YLW,4
+VistaJet Limited,10750,BRS,15167,TEB,9
+Tradewind Aviation,16022,YCL,12197,HPN,6
+Tradewind Aviation,16168,YQI,10721,BOS,6
+"Scott Aviation, LLC  d/b/a  Silver Air",14653,RVS,10423,AUS,10
+Tradewind Aviation,13032,LNS,12250,HYA,5
+Chartright Air Inc.,16547,IA4,16078,YHM,8
+Chartright Air Inc.,16864,ZMH,15232,TKF,8
+VistaJet Limited,10160,ADB,11618,EWR,7
+Tradewind Aviation,15546,VA2,14131,PKB,8
+"Maritime Helicopters, Inc.",11034,CKU,15579,VDZ,6
+"Jet Aviation Flight Services, Inc.",12930,LDY,14100,PHL,9
+Tradewind Aviation,13654,NEV,14843,SJU,3
+Air Alsie A/S,11620,EXT,10540,BED,4
+"ADVANCED AIR, LLC",11342,DLS,12127,HHR,9
+"Scott Aviation, LLC  d/b/a  Silver Air",11780,FST,10372,ASE,6
+Unijet,12240,HUY,10581,BGR,4
+Air Hamburg Luftverkehrsgesellschaft mbH,13043,LOS,15167,TEB,4
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,16823,CO6,12574,TN8,9
+"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",13536,MVM,14081,PGA,9
+VistaJet Limited,12343,INL,15618,VNY,8
+VistaJet Limited,13719,NOC,14320,PWK,8
+Avjet Corporation,13728,NPA,12436,IYK,5
+Elitavia Malta Limited,11172,CTU,13303,MIA,8
+VistaJet Limited,16782,DSS,10540,BED,7
+VistaJet Limited,16768,QSR,10257,ALB,7
+Tradewind Aviation,13450,MPV,10010,1B1,8
+Tradewind Aviation,16867,N6Y,11728,FOK,8
+Tradewind Aviation,16585,NJ5,13731,NPT,8
+"Jet Aviation Flight Services, Inc.",16422,GUF,10423,AUS,4
+Allegiant Air,15624,VPS,11481,ECP,6
+Tradewind Aviation,15203,THV,12197,HPN,2
+"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",14091,PGS,14081,PGA,10
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,12153,HLG,15628,VRB,2
+VistaJet Limited,15493,USH,12264,IAD,1
+Aeromexico,15632,VSA,12266,IAH,9
+Tradewind Aviation,10663,BLF,15167,TEB,4
+Avjet Corporation,13702,NLC,15304,TPA,3
+"Jet Aviation Flight Services, Inc.",14938,SOP,13232,MDW,5
+Chartright Air Inc.,10933,CEF,16271,YYZ,5
+Kenmore Air Harbor,15999,YAZ,10559,BFI,7
+Kenmore Air Harbor,16211,YTP,13002,LKE,7
+Grant Aviation,13704,NLG,10917,CDB,3
+Chartright Air Inc.,11085,CNM,16173,YQR,6
+Horizon Air,10275,ALW,14252,PSC,2
+London Air Services Limited,16251,YXT,13796,OAK,3
+"ADVANCED AIR, LLC",13194,MCE,12127,HHR,9
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,13338,MJX,14122,PIT,8
+VistaJet Limited,11017,CIY,10581,BGR,9
+VistaJet Limited,14860,SKP,11433,DTW,9
+"Scott Aviation, LLC  d/b/a  Silver Air",15956,XWW,11298,DFW,10
+Tradewind Aviation,16051,YFC,13296,MHT,5
+"Scott Aviation, LLC  d/b/a  Silver Air",12300,IGR,14683,SAT,7
+Tradewind Aviation,14025,PBG,12197,HPN,10
+VistaJet Limited,10710,BOD,14685,SAV,5
+Wright Air Service,10039,A26,11630,FAI,8
+"Scott Aviation, LLC  d/b/a  Silver Air",15714,WAR,14577,ROG,9
+VistaJet Limited,14889,SMA,10540,BED,8
+Key Lime Air Corporation,14534,RIW,14812,SHR,4
+Tradewind Aviation,16856,VJI,12197,HPN,5
+"ADVANCED AIR, LLC",16843,1CA,12127,HHR,1
+Chartright Air Inc.,16156,YPQ,13476,MRY,8
+"Scott Aviation, LLC  d/b/a  Silver Air",16445,ID1,10559,BFI,8
+"Scott Aviation, LLC  d/b/a  Silver Air",14092,PGV,15618,VNY,8
+"Jet Aviation Flight Services, Inc.",16306,ZLO,12197,HPN,1
+"Jet Aviation Flight Services, Inc.",13559,MXL,12892,LAX,2
+"ADVANCED AIR, LLC",11029,CKE,12127,HHR,7
+"Global Jet Luxembourg, Sa",11586,ESB,15304,TPA,3
+VistaJet Limited,14991,SSA,13898,OPF,2
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,12460,JCI,12264,IAD,3
+Tropic Ocean Airways LLC,13709,NMC,13439,MPB,3
+Scott Air LLC dba Island Air Express,16157,YPR,12819,KTN,2
+VistaJet Limited,14297,PUQ,13303,MIA,3
+Bering Air Inc.,14313,PVS,13873,OME,3
+Scott Air LLC dba Island Air Express,16309,ZMT,12819,KTN,6
+Key Lime Air Corporation,14812,SHR,14534,RIW,7
+Svenskt Industriflyg AB,12694,KIR,12197,HPN,7
+FAI rent-a-jet AG,16859,GKE,11487,EDF,6
+"Scott Aviation, LLC  d/b/a  Silver Air",15769,WJF,15618,VNY,1
+"Seaborne Virgin Islands, Inc.",14992,SSB,14945,SPB,10
+"Jet Aviation Flight Services, Inc.",11838,GA3,15167,TEB,2
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,11274,DBQ,13930,ORD,7
+Envoy Air,16293,ZCL,13061,LRD,6
+"Comlux Malta, Ltd.",11549,EMD,10581,BGR,7
+SkyWest Airlines Inc.,10967,CGI,13344,MKG,7
+VistaJet Limited,11954,GOA,10325,APA,6
+"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",11425,DTH,10661,BLD,10
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,13762,NTR,10693,BNA,3
+"Jet Aviation Flight Services, Inc.",12516,JMK,10581,BGR,6
+"Scott Aviation, LLC  d/b/a  Silver Air",14087,PGL,12266,IAH,10
+"Scott Aviation, LLC  d/b/a  Silver Air",12563,JTR,10721,BOS,8
+Island Air Service,10100,A87,10056,A43,7
+Air Hamburg Luftverkehrsgesellschaft mbH,11987,GRS,15167,TEB,6
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),16304,ZIH,13930,ORD,9
+SkyWest Airlines Inc.,11865,GCC,14698,SBP,10
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,14447,RAC,12574,TN8,7
+"Scott Aviation, LLC  d/b/a  Silver Air",15608,VLI,12173,HNL,10
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,13287,MHE,10397,ATL,10
+"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",16725,NV5,14081,PGA,6
+"Global Jet Luxembourg, Sa",11124,CPT,12264,IAD,2
+Talofa Airways Limited,15144,TBU,14222,PPG,5
+"Scott Aviation, LLC  d/b/a  Silver Air",14178,PNA,11638,FAT,7
+"Jet Aviation Flight Services, Inc.",13392,MML,14320,PWK,4
+Mesa Airlines Inc.,13370,MLM,10423,AUS,6
+Allegiant Air,10676,BLV,10466,AZA,6
+Trans States Airlines,10557,BFD,12264,IAD,2
+"Seaborne Virgin Islands, Inc.",14945,SPB,14992,SSB,5
+Envoy Air,12995,LIY,11150,CSG,8
+Envoy Air,13102,LUF,13930,ORD,2
+Trans States Airlines,13221,MDH,14783,SGF,10
+Trans States Airlines,12007,GTR,10693,BNA,2
+Trans States Airlines,10300,AND,14696,SBN,1
+SkyWest Airlines Inc.,12255,HYS,14877,SLN,2
+Envoy Air,15317,TRC,12266,IAH,4
+ExpressJet Airlines LLC,15125,TAM,11140,CRP,9
+Polynesian Airlines Ltd.,13826,OFU,14222,PPG,1
+XTRA Airways,12180,HOG,13303,MIA,9
+Trans States Airlines,11931,GLH,11259,DAL,10
+Qantas Airways Ltd.,10696,BNE,12478,JFK,9
+Tradewind Aviation,14400,QMN,15167,TEB,10
+Envoy Air,12891,LAW,10155,ACT,8
+British Airways Plc,12920,LCY,12478,JFK,8
+Allegiant Air,14993,SSC,12216,HST,5
+JetBlue Airways,14924,SNU,13303,MIA,10
+TAG Aviation (UK) Ltd.,14767,SFJ,14259,PSM,7
+Endeavor Air Inc.,15607,VLD,10397,ATL,6
+Sun Country Airlines d/b/a MN Airlines,11905,GGG,10590,IFP,8
+SkyWest Airlines Inc.,12519,JMS,10627,BIS,9
+Air Company Yakutia,14132,PKC,10299,ANC,9
+Omni Air International LLC,11332,DKR,10185,AEX,4
+Allegiant Air,15211,TIK,13671,NHK,10
+Sun Country Airlines d/b/a MN Airlines,11719,FNL,10590,IFP,4
+Omni Air International LLC,14185,PNH,12016,GUM,7
+Sun Country Airlines d/b/a MN Airlines,14960,SPS,10590,IFP,1
+Ameristar Air Cargo,15825,CWF,10693,BNA,5
+Sun Country Airlines d/b/a MN Airlines,12511,JLN,10590,IFP,5
+XTRA Airways,11075,CMW,13303,MIA,9
+Bering Air Inc.,11458,DYR,13873,OME,7
+"Multi-Aero, Inc. d/b/a Air Choice One",11725,FOD,13211,MCW,2
+VRG Linhas Aereas S A,11730,FOR,13204,MCO,9
+United Air Lines Inc.,12845,KWA,12016,GUM,1
+"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",10658,BLA,13303,MIA,1
+Silver Airways,13182,MBL,13232,MDW,9
+Southwest Airlines Co.,14488,RDG,13204,MCO,4
+Sun Air Express LLC dba Sun Air International,12207,HRO,13244,MEM,2
+XTRA Airways,14722,SCU,13303,MIA,9
+Allegiant Air,10476,BAD,13304,MIB,9
+Allegiant Air,14082,PGD,14259,PSM,9
+SkyWest Airlines Inc.,12177,HOB,11292,DEN,10
+Sun Air Express LLC dba Sun Air International,11531,ELD,13244,MEM,8
+"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",15532,UXR,14081,PGA,7
+Allegiant Air,15620,VOK,10615,BIF,10
+Allegiant Air,14706,SC1,13700,NKX,9
+Allegiant Air,14848,SKA,13891,ONT,6
+Allegiant Air,15550,VAD,13087,LSV,8
+Air Pacific Ltd.,11216,CXI,12173,HNL,10
+Allegiant Air,11344,DMA,10559,BFI,6
+Sun Air Express LLC dba Sun Air International,11684,FKL,14122,PIT,2
+Hainan Airlines Company Limited,15910,XIY,12892,LAX,2
+Sun Country Airlines d/b/a MN Airlines,12228,HUF,15048,SUX,10
+"Multi-Aero, Inc. d/b/a Air Choice One",12412,IWD,13487,MSP,4
+American Airlines Inc.,13594,MZT,14107,PHX,1
+JetBlue Airways,11164,CTG,10821,BWI,1
+Delta Air Lines Inc.,10758,BSB,13303,MIA,3
+JetBlue Airways,14254,PSE,14843,SJU,8
+Polynesian Airlines Ltd.,16647,FAQ,14222,PPG,9
+Miami Air International,13506,MTO,10298,ANB,10
+Japan Air Lines Co. Ltd.,12167,HNA,12173,HNL,6
+American Airlines Inc.,11108,COR,13204,MCO,8
+Allegiant Air,13543,MWA,16133,YNG,10
+Sun Country Airlines d/b/a MN Airlines,12129,HIB,10590,IFP,1
+Sun Country Airlines d/b/a MN Airlines,11471,EAU,10590,IFP,1
+Japan Air Lines Co. Ltd.,12133,HIJ,12173,HNL,9
+Japan Air Lines Co. Ltd.,12763,KOJ,12173,HNL,9
+Sun Country Airlines d/b/a MN Airlines,10643,BKG,11278,DCA,9
+Cape Air,11879,GDV,10620,BIL,2
+Boutique Air,15569,VCT,11298,DFW,2
+Cape Air,12245,HVR,10620,BIL,2
+Mesa Airlines Inc.,10148,ACA,12266,IAH,5
+Japan Air Lines Co. Ltd.,12735,KMJ,12173,HNL,7
+Caribbean Airlines Limited,15115,TAB,12478,JFK,10
+Boutique Air,14943,SOW,14107,PHX,2
+Allegiant Air,15154,TCM,10615,BIF,9
+Japan Air Lines Co. Ltd.,11793,FUK,12173,HNL,7
+Polskie Linie Lotnicze,14664,RZE,11618,EWR,1
+Transportes Aeros Meridiona,14496,REC,13204,MCO,7
+Jeju Air Co Ltd.,11781,FSZ,12016,GUM,3
+United Air Lines Inc.,13726,NOU,12892,LAX,3
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),11180,CUL,14107,PHX,8
+"Mokulele Flight Services, Inc.",13520,MUE,13830,OGG,2
+Cape Air,12375,IRK,15016,STL,1
+Boutique Air,13490,MSS,10721,BOS,1
+National Aviation Company of India Limited d/b/a Air India,10674,BLR,14771,SFO,10
+SkyWest Airlines Inc.,15897,WYS,14869,SLC,10
+Fast Colombia SAS d/b/a Viva Colombia,14900,SMR,13303,MIA,4
+United Air Lines Inc.,12414,IWO,12016,GUM,3
+TUI Airlines Nederland B.V.,12922,LDE,10821,BWI,5
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),15483,UPN,12892,LAX,2
+CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,16873,NM2,14712,SCF,10
+Bahamasair Holding Limited,16322,ZSA,13303,MIA,5
+Aerovias Nacl De Colombia,14065,PEI,12478,JFK,4
+Boutique Air,10272,ALS,11292,DEN,1
+Etihad Airways,10415,AUH,10721,BOS,8
+Transportes Aereos De Cabo,14451,RAI,10721,BOS,2
+"PM Air, LLC",14470,RBN,11624,EYW,9
+SkyWest Airlines Inc.,15454,UIN,13930,ORD,2
+SkyWest Airlines Inc.,11092,CNY,11292,DEN,1
+Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),11301,DGO,12892,LAX,2
+Ethiopian Airlines,10162,ADD,12892,LAX,2
+Cape Air,14745,SDY,10620,BIL,2
+Polskie Linie Lotnicze,12789,KRK,13930,ORD,5
+Spirit Air Lines,10878,CAP,11697,FLL,6
+Talofa Airways Limited,11671,FGI,14222,PPG,2
+Venture Travel LLC d/b/a Taquan Air Service,11401,DQU,15741,WFB,7
+Omni Air International LLC,10503,BBU,12264,IAD,9
+Air New Zealand,14458,RAR,12892,LAX,2
+Sichuan Airlines Co Ltd.,15277,TNA,12892,LAX,10
+SkyWest Airlines Inc.,14237,PRC,12892,LAX,2
+Alaska Airlines Inc.,13095,LTO,12892,LAX,9
+SkyWest Airlines Inc.,15582,VEL,11292,DEN,1
+Britannia Airways Ltd.,13628,NCL,14761,SFB,10
+Azul Linhas Aereas Brazileiras S A,11082,CNF,13204,MCO,9
+American Airlines Inc.,10673,BLQ,14100,PHL,9
+Hainan Airlines Company Limited,11030,CKG,12892,LAX,3
+Royal Air Maroc,11070,CMN,13303,MIA,5
+ExpressJet Airlines LLC,15584,VER,12266,IAH,2
+Spirit Air Lines,10448,AXM,11697,FLL,2
+Air Serbia,10542,BEG,12478,JFK,2
+French bee,13943,ORY,14771,SFO,8
+Uzbekistan Airways,15130,TAS,12478,JFK,2
+South African Airways,10150,ACC,12264,IAD,2
+SkyWest Airlines Inc.,10779,BTM,14869,SLC,2
+Envoy Air,10728,BPT,11298,DFW,2
+American Airlines Inc.,15643,VVI,13303,MIA,9
+South African Airways,12520,JNB,12264,IAD,3
+American Airlines Inc.,15627,VRA,13303,MIA,2
+China Southern Airlines,14803,SHE,12892,LAX,6
+Jeju Air Co Ltd.,14299,PUS,14955,SPN,3
+"Xiamen Airlines Co., Ltd.",11724,FOC,12478,JFK,2
+Kenya Airways PLC,13616,NBO,12478,JFK,2
+Ukraine International Airlines,12627,KBP,12478,JFK,2
+Kuwait Airways Corp.,12849,KWI,12478,JFK,2
+,,AIO,,,
+,,SHJ,,,
+,,PHC,,,
+,,TUU,,,
+,,ZXC,,,
+,,A50,,,
+,,SGH,,,
+,,AGT,,,
+,,ASU,,,
+,,POA,,,
+,,MBA,,,
+,,WTN,,,
+,,DHF,,,
+,,RO1,,,
+,,ANF,,,
+,,CFB,,,
+,,VIX,,,
+,,SKJ,,,
+,,HKS,,,
+,,CJU,,,
+,,XXW,,,
+,,YEV,,,
+,,XXU,,,
+,,BOK,,,
+,,RLD,,,
+,,AE2,,,
+,,KDH,,,
+,,SPM,,,
+,,BYW,,,
+,,RIX,,,
+,,ZAG,,,
+,,BZV,,,
+,,ADL,,,
+,,IN5,,,
+,,NKC,,,
+,,LKZ,,,
+,,YTR,,,
+,,MUL,,,
+,,NJK,,,
+,,NIM,,,
+,,DVO,,,
+,,AVV,,,
+,,PEN,,,
+,,TUN,,,
+,,RRT,,,
+,,TTD,,,
+,,OZP,,,
+,,RKH,,,
+,,MHZ,,,
+,,SJW,,,
+,,YCG,,,
+,,COM,,,
+,,ATS,,,
+,,ULN,,,
+,,ROS,,,
+,,CBR,,,
+,,BEY,,,
+,,SUB,,,
+,,ASB,,,
+,,KKJ,,,
+,,DRW,,,
+,,OSH,,,
+,,NQN,,,
+,,DQP,,,
+,,LAD,,,
+,,NTE,,,
+,,UXP,,,
+,,EML,,,
+,,6B0,,,
+,,JER,,,
+,,SCQ,,,
+,,OBF,,,
+,,FMO,,,
+,,GTY,,,
+,,BLE,,,
+,,UME,,,
+,,BFB,,,
+,,NY3,,,
+,,LJU,,,
+,,KLR,,,
+,,OLB,,,
+,,AVN,,,
+,,MME,,,
+,,MPL,,,
+,,PAO,,,
+,,DTM,,,
+,,ABZ,,,
+,,GRZ,,,
+,,RTS,,,
+,,WRO,,,
+,,N2Y,,,
+,,KS3,,,
+,,FNR,,,
+,,KVG,,,
+,,YND,,,
+,,JLA,,,
+,,EFK,,,
+,,WQX,,,
+,,OLM,,,
+,,CH1,,,
+,,IOA,,,
+,,LUG,,,
+,,BXO,,,
+,,GMU,,,
+,,SOU,,,
+,,ZBL,,,
+,,FCM,,,
+,,YTM,,,
+,,CEQ,,,
+,,ETZ,,,
+,,NGD,,,
+,,LVK,,,
+,,HLA,,,
+,,JZM,,,
+,,PNP,,,
+,,FKB,,,
+,,SXB,,,
+,,P1A,,,
+,,KKU,,,
+,,PT1,,,
+,,YYF,,,
+,,SMB,,,
+,,ORK,,,
+,,TNG,,,
+,,ZBF,,,
+,,TRK,,,
+,,KLX,,,
+,,CAT,,,
+,,YDA,,,
+,,AL7,,,
+,,YLS,,,
+,,GMT,,,
+,,DLM,,,
+,,RLG,,,
+,,SDX,,,
+,,PGF,,,
+,,EAS,,,
+,,PRN,,,
+,,BML,,,
+,,DIJ,,,
+,,EFL,,,
+,,VCB,,,
+,,AAR,,,
+,,MDZ,,,
+,,TIV,,,
+,,HET,,,
+,,RCA,,,
+,,SKL,,,
+,,RQZ,,,
+,,MQP,,,
+,,OKJ,,,
+,,BYJ,,,
+,,TLL,,,
+,,CYB,,,
+,,OKA,,,
+,,DNE,,,
+,,NBC,,,
+,,MED,,,
+,,KTW,,,
+,,MES,,,
